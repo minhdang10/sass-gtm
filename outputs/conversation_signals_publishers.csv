@@ -1,0 +1,11 @@
+Rank,Publisher Name,Relevance Score,Number of Articles,Topics Covered,Website URL,Sample Article,Last Updated
+1,The Hacker News,28,28,"ai_agent_security, salesloft_breach",https://thehackernews.com,GenAI security risks in SaaS platforms,2025-12-01 22:02:58
+2,Dark Reading,30,30,"sspm, saas_compliance",https://www.darkreading.com,GenAI security risks in SaaS platforms,2025-12-01 22:02:58
+3,SecurityWeek,16,16,"gainsight_breach, saas_security, saas_compliance, sspm, ai_agent_security",https://www.securityweek.com,New SaaS security framework released,2025-12-01 22:02:58
+4,Krebs on Security,8,8,"saas_compliance, salesloft_breach, salesforce_breach, gainsight_breach, ai_agent_security",https://krebsonsecurity.com,New SaaS security framework released,2025-12-01 22:02:58
+5,Bleeping Computer,12,12,"saas_security, gainsight_breach, salesforce_breach, sspm",https://www.bleepingcomputer.com,Gainsight incident: what we know so far,2025-12-01 22:02:58
+6,Threatpost,10,10,"sspm, ai_agent_security, saas_security",https://threatpost.com,Salesloft supply chain attack deep dive,2025-12-01 22:02:58
+7,CSO Online,14,14,"salesloft_breach, saas_compliance, ai_agent_security, saas_security, gainsight_breach",https://www.csoonline.com,AI compliance regulations update,2025-12-01 22:02:58
+8,SC Magazine,12,12,"saas_security, salesloft_breach",https://www.scmagazine.com,Gainsight incident: what we know so far,2025-12-01 22:02:58
+9,InfoSecurity Magazine,7,7,"salesloft_breach, gainsight_breach, ai_agent_security, saas_security",https://www.infosecurity-magazine.com,SaaS security posture management guide,2025-12-01 22:02:58
+10,Security Boulevard,3,3,"saas_security, sspm, saas_compliance, ai_agent_security, salesloft_breach",https://securityboulevard.com,GenAI security risks in SaaS platforms,2025-12-01 22:02:58

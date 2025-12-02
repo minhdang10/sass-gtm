@@ -1,0 +1,1001 @@
+Rank,Company Name,Total Jobs,Categories,Signal Strength,Sample Roles,Data Sources,Last Updated
+1,Shopify,19,"saas_compliance, saas_security",Very High,AI Security Engineer; Cloud Security Engineer; SaaS Security Posture Manager; AI Compliance Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+2,SendGrid Ltd,42,saas_security,Very High,AI Security Engineer; Cloud Security Architect; SaaS Governance Analyst; GenAI Security Specialist; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+3,Monday.com,49,"saas_security, saas_compliance",Very High,SaaS Security Consultant; SaaS Governance Analyst; SaaS Security Engineer; GenAI Security Specialist; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+4,Monday.com,48,"sspm, ai_compliance, saas_security",Very High,Cloud Security Engineer; SaaS Risk Analyst; SaaS Security Consultant; SaaS Security Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+5,Fortinet,25,"saas_compliance, ai_agent_security",Very High,Cloud Security Architect; SSPM Engineer; SaaS Security Posture Manager; SaaS Governance Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+6,Looker,50,"sspm, saas_security, ai_compliance",Very High,SaaS Security Engineer; SaaS Security Consultant; SaaS Governance Analyst; GenAI Security Specialist; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+7,Hashicorp,33,"saas_compliance, ai_agent_security, sspm",Very High,SaaS Security Consultant; SaaS Compliance Manager; Cloud Security Architect; SaaS Risk Analyst; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+8,MongoDB,32,saas_security,Very High,SaaS Security Posture Manager; SaaS Security Engineer; Cloud Security Architect; SaaS Governance Analyst; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+9,RSA,23,sspm,Very High,SaaS Security Engineer; GenAI Security Specialist; SaaS Security Consultant; Cloud Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+10,DigitalOcean,26,ai_compliance,Very High,SaaS Security Consultant; SaaS Risk Analyst; Cloud Security Engineer; SaaS Security Posture Manager; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+11,Qualys,25,"ai_compliance, sspm",Very High,SaaS Governance Analyst; Cloud Security Engineer; AI Compliance Engineer; SaaS Security Consultant; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+12,Oracle,49,"sspm, saas_security, ai_compliance",Very High,SaaS Security Analyst; SaaS Compliance Manager; SaaS Security Engineer; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+13,SquareSpace,21,saas_security,Very High,SaaS Security Analyst; GenAI Security Specialist; AI Security Engineer; Cloud Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+14,Databricks,25,"saas_compliance, sspm, ai_compliance",Very High,SaaS Compliance Manager; Cloud Security Engineer; SaaS Security Consultant; Security Engineer - SaaS; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+15,ForgeRock,50,sspm,Very High,SSPM Engineer; AI Compliance Engineer; GenAI Security Specialist; SaaS Security Consultant; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+16,Workday,43,"ai_agent_security, saas_security",Very High,SaaS Security Engineer; SaaS Security Consultant; AI Compliance Engineer; Cloud Security Architect; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+17,Tenable,25,ai_agent_security,Very High,SaaS Security Engineer; SaaS Security Analyst; AI Security Engineer; SSPM Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+18,ServiceNow,30,saas_security,Very High,AI Security Engineer; Cloud Security Engineer; SaaS Governance Analyst; SaaS Security Posture Manager; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+19,Calendly Corp,43,"saas_compliance, saas_security",Very High,SaaS Risk Analyst; SSPM Engineer; SaaS Governance Analyst; Security Engineer - SaaS; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+20,Fortinet Ltd,34,saas_security,Very High,SaaS Security Engineer; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Risk Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+21,Google ,38,ai_compliance,Very High,AI Security Engineer; SaaS Security Consultant; AI Compliance Engineer; SaaS Governance Analyst; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+22,Box,49,sspm,Very High,Cloud Security Architect; SaaS Security Analyst; SaaS Risk Analyst; SaaS Governance Analyst; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+23,CrowdStrike,46,ai_agent_security,Very High,Cloud Security Architect; SaaS Security Engineer; SaaS Security Posture Manager; SaaS Security Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+24,Barracuda Corp,45,"saas_compliance, ai_agent_security",Very High,Security Engineer - SaaS; Cloud Security Architect; SaaS Security Engineer; GenAI Security Specialist; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+25,Salesforce,29,saas_security,Very High,SaaS Security Analyst; AI Compliance Engineer; SaaS Compliance Manager; SSPM Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+26,OneLogin,15,"sspm, saas_compliance, saas_security",Very High,SaaS Governance Analyst; SaaS Security Consultant; AI Compliance Engineer; Cloud Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+27,Slack,27,saas_security,Very High,Cloud Security Engineer; SaaS Security Consultant; Cloud Security Architect; SaaS Risk Analyst; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+28,Vultr Ltd,34,ai_agent_security,Very High,SaaS Governance Analyst; AI Compliance Engineer; AI Security Engineer; SaaS Compliance Manager; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+29,RSA,42,"sspm, ai_compliance, saas_security",Very High,AI Compliance Engineer; SaaS Risk Analyst; SaaS Security Engineer; SSPM Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+30,Bitbucket,38,ai_compliance,Very High,SaaS Security Posture Manager; SaaS Compliance Manager; SaaS Security Engineer; AI Compliance Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+31,Wrike Corp,50,"sspm, saas_compliance",Very High,SSPM Engineer; SaaS Security Consultant; SaaS Risk Analyst; Cloud Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+32,Square Ltd,25,"ai_agent_security, ai_compliance, saas_compliance",Very High,SaaS Security Posture Manager; GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Consultant; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+33,Netlify,37,"sspm, ai_compliance, saas_compliance",Very High,Cloud Security Engineer; SaaS Governance Analyst; SaaS Risk Analyst; AI Compliance Engineer; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+34,Jenkins,45,saas_security,Very High,SaaS Security Posture Manager; AI Compliance Engineer; SSPM Engineer; SaaS Security Consultant; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+35,Constant Contact,16,"saas_compliance, sspm",Very High,SaaS Security Engineer; SaaS Risk Analyst; SaaS Governance Analyst; GenAI Security Specialist; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+36,ClickUp Corp,16,"sspm, ai_compliance",Very High,SaaS Security Analyst; SaaS Security Engineer; SSPM Engineer; AI Compliance Engineer; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+37,Workday,31,ai_agent_security,Very High,SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Security Analyst; Cloud Security Architect; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+38,Auth0,15,"saas_compliance, ai_compliance",Very High,SSPM Engineer; SaaS Security Consultant; AI Compliance Engineer; AI Security Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+39,Linode,30,"sspm, saas_compliance",Very High,SaaS Compliance Manager; SaaS Security Engineer; Cloud Security Architect; AI Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+40,Jira,47,"ai_agent_security, saas_security",Very High,SaaS Governance Analyst; Security Engineer - SaaS; Cloud Security Architect; SSPM Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+41,GCP Inc,16,ai_compliance,Very High,GenAI Security Specialist; Cloud Security Architect; SaaS Security Analyst; Cloud Security Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+42,Auth0 LLC,43,"saas_security, sspm, saas_compliance",Very High,Security Engineer - SaaS; SaaS Compliance Manager; SaaS Risk Analyst; SaaS Security Consultant; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+43,Linode,20,"sspm, saas_compliance, ai_agent_security",Very High,Cloud Security Architect; SaaS Governance Analyst; AI Security Engineer; SaaS Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+44,Monday.com,30,"ai_agent_security, saas_security",Very High,Cloud Security Engineer; SaaS Governance Analyst; GenAI Security Specialist; SaaS Risk Analyst; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+45,Duo Security ,30,"ai_compliance, ai_agent_security, saas_compliance",Very High,SaaS Security Consultant; SaaS Security Analyst; SaaS Governance Analyst; Cloud Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+46,IBM,31,"saas_compliance, ai_compliance",Very High,SaaS Security Engineer; SaaS Security Analyst; AI Security Engineer; Security Engineer - SaaS; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+47,Marketo,37,ai_compliance,Very High,Cloud Security Architect; SaaS Governance Analyst; SaaS Security Posture Manager; GenAI Security Specialist; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+48,Stripe LLC,23,"ai_compliance, saas_compliance",Very High,AI Security Engineer; SaaS Security Posture Manager; SaaS Risk Analyst; SaaS Security Consultant; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+49,Akamai ,38,"ai_agent_security, saas_compliance, sspm",Very High,SaaS Governance Analyst; AI Compliance Engineer; SaaS Compliance Manager; SaaS Security Consultant; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+50,Fortinet,22,"saas_security, sspm",Very High,SaaS Security Analyst; SaaS Compliance Manager; SaaS Governance Analyst; AI Compliance Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+51,Mimecast LLC,19,"saas_security, sspm, ai_compliance",Very High,SaaS Security Engineer; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Compliance Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+52,Symantec,18,"sspm, ai_agent_security, saas_compliance",Very High,SaaS Governance Analyst; SaaS Security Consultant; SaaS Security Engineer; AI Compliance Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+53,Databricks,20,sspm,Very High,Cloud Security Engineer; SSPM Engineer; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+54,Vultr,17,saas_security,Very High,SaaS Security Posture Manager; SaaS Governance Analyst; Cloud Security Engineer; SaaS Security Consultant; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+55,Heroku ,8,sspm,High,SaaS Compliance Manager; Cloud Security Architect; GenAI Security Specialist; SaaS Governance Analyst; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+56,Monday.com,10,sspm,Very High,Cloud Security Engineer; Cloud Security Architect; Security Engineer - SaaS; AI Security Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+57,Palo Alto Networks,18,sspm,Very High,SaaS Compliance Manager; SSPM Engineer; SaaS Governance Analyst; Security Engineer - SaaS; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+58,Okta,11,"saas_compliance, ai_agent_security, saas_security",Very High,SaaS Compliance Manager; Cloud Security Engineer; SaaS Governance Analyst; Cloud Security Architect; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+59,GitHub,12,saas_security,Very High,SaaS Security Analyst; SaaS Compliance Manager; SaaS Security Consultant; Cloud Security Architect; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+60,Datadog,18,"ai_compliance, saas_security",Very High,SaaS Security Analyst; Cloud Security Engineer; GenAI Security Specialist; SaaS Compliance Manager; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+61,Databricks Corp,15,"saas_compliance, sspm",Very High,GenAI Security Specialist; Cloud Security Engineer; SaaS Security Engineer; SaaS Security Posture Manager; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+62,DocuSign,12,"sspm, saas_compliance, ai_compliance",Very High,Security Engineer - SaaS; SaaS Security Consultant; Cloud Security Engineer; AI Compliance Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+63,GitHub Actions,15,"saas_security, ai_agent_security",Very High,SaaS Governance Analyst; Security Engineer - SaaS; Cloud Security Architect; Cloud Security Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+64,SquareSpace,15,ai_compliance,Very High,SaaS Security Posture Manager; SSPM Engineer; Cloud Security Architect; Security Engineer - SaaS; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+65,Drift,11,ai_agent_security,Very High,Cloud Security Engineer; Cloud Security Architect; Security Engineer - SaaS; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+66,Bitbucket,19,"saas_security, ai_agent_security",Very High,SaaS Security Posture Manager; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Engineer; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+67,McAfee,18,"saas_compliance, sspm, ai_compliance",Very High,AI Security Engineer; SaaS Risk Analyst; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+68,GitHub Actions LLC,15,"sspm, saas_security, ai_compliance",Very High,SaaS Security Engineer; SSPM Engineer; SaaS Security Analyst; Cloud Security Architect; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+69,Shopify,18,"saas_compliance, ai_compliance",Very High,Cloud Security Architect; SaaS Security Analyst; AI Security Engineer; SaaS Risk Analyst; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+70,Microsoft LLC,10,ai_agent_security,Very High,Cloud Security Architect; SaaS Risk Analyst; SaaS Security Posture Manager; Security Engineer - SaaS; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+71,Google,17,"ai_compliance, ai_agent_security",Very High,GenAI Security Specialist; SaaS Governance Analyst; SaaS Security Engineer; SaaS Security Consultant; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+72,SailPoint LLC,12,"ai_agent_security, sspm",Very High,SaaS Risk Analyst; Security Engineer - SaaS; SSPM Engineer; SaaS Security Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+73,Oracle,13,"saas_compliance, ai_agent_security",Very High,SaaS Security Consultant; SaaS Security Analyst; SaaS Security Posture Manager; GenAI Security Specialist; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+74,Rapid7 LLC,18,"ai_compliance, sspm, saas_security",Very High,SaaS Security Consultant; SaaS Governance Analyst; GenAI Security Specialist; SaaS Security Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+75,Box LLC,14,"ai_agent_security, saas_security",Very High,SaaS Security Posture Manager; AI Security Engineer; Cloud Security Architect; SaaS Risk Analyst; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+76,ServiceNow,9,"saas_compliance, saas_security, sspm",Very High,SaaS Compliance Manager; SaaS Security Posture Manager; Cloud Security Engineer; SaaS Risk Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+77,OneLogin,17,"saas_compliance, sspm",Very High,SaaS Security Consultant; SaaS Security Engineer; AI Compliance Engineer; GenAI Security Specialist; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+78,Symantec,12,saas_security,Very High,Cloud Security Engineer; SSPM Engineer; SaaS Compliance Manager; SaaS Security Posture Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+79,Atlassian Ltd,16,"saas_security, sspm",Very High,Security Engineer - SaaS; SaaS Governance Analyst; SaaS Security Posture Manager; Cloud Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+80,Monday.com,19,saas_compliance,Very High,Cloud Security Architect; SaaS Compliance Manager; AI Compliance Engineer; SaaS Security Analyst; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+81,Workday,15,"saas_security, saas_compliance, ai_agent_security",Very High,SaaS Risk Analyst; SSPM Engineer; SaaS Compliance Manager; Cloud Security Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+82,Wrike,11,"sspm, saas_security",Very High,Cloud Security Architect; Cloud Security Engineer; SaaS Security Engineer; GenAI Security Specialist; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+83,Auth0,10,"sspm, ai_compliance, saas_security",Very High,SaaS Governance Analyst; SaaS Security Engineer; SaaS Security Posture Manager; Security Engineer - SaaS; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+84,Monday.com,15,"ai_compliance, sspm",Very High,SaaS Risk Analyst; Cloud Security Engineer; SaaS Governance Analyst; GenAI Security Specialist; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+85,Heroku,13,"saas_security, ai_agent_security",Very High,Cloud Security Engineer; SaaS Governance Analyst; GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+86,Zscaler,17,ai_agent_security,Very High,SaaS Security Posture Manager; SaaS Risk Analyst; Cloud Security Architect; SaaS Security Consultant; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+87,Box Corp,15,"ai_agent_security, ai_compliance, sspm",Very High,Cloud Security Engineer; Security Engineer - SaaS; SaaS Risk Analyst; SSPM Engineer; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+88,Mailchimp,9,"sspm, saas_security",Very High,SaaS Security Analyst; AI Security Engineer; GenAI Security Specialist; Cloud Security Engineer; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+89,IBM,20,sspm,Very High,AI Compliance Engineer; SaaS Compliance Manager; Cloud Security Architect; Security Engineer - SaaS; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+90,Tableau LLC,11,ai_agent_security,Very High,Security Engineer - SaaS; GenAI Security Specialist; AI Compliance Engineer; AI Security Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+91,Azure,17,"sspm, saas_security, ai_agent_security",Very High,SaaS Governance Analyst; Cloud Security Engineer; Cloud Security Architect; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+92,Wix ,9,sspm,High,Security Engineer - SaaS; Cloud Security Architect; GenAI Security Specialist; SaaS Security Analyst; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+93,Drift,12,"saas_security, ai_agent_security, saas_compliance",Very High,Security Engineer - SaaS; SaaS Compliance Manager; SaaS Security Engineer; SSPM Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+94,OneLogin,10,ai_compliance,Very High,SaaS Security Engineer; SaaS Risk Analyst; SaaS Governance Analyst; SaaS Security Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+95,MongoDB,13,sspm,Very High,SSPM Engineer; GenAI Security Specialist; SaaS Security Engineer; SaaS Security Posture Manager; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+96,Linode,11,"ai_compliance, saas_compliance",Very High,Cloud Security Architect; GenAI Security Specialist; SaaS Security Consultant; SSPM Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+97,Palo Alto Networks LLC,10,"saas_compliance, saas_security, ai_agent_security",Very High,Cloud Security Architect; Cloud Security Engineer; AI Compliance Engineer; SaaS Governance Analyst; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+98,Smartsheet,18,"ai_agent_security, sspm",Very High,SaaS Risk Analyst; SaaS Security Engineer; Security Engineer - SaaS; AI Security Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+99,ServiceNow,9,"sspm, saas_security",Very High,AI Security Engineer; Security Engineer - SaaS; SSPM Engineer; AI Compliance Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+100,F5 Networks,19,"sspm, saas_security",Very High,SaaS Compliance Manager; AI Compliance Engineer; SaaS Security Engineer; SSPM Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+101,Smartsheet,20,"saas_security, saas_compliance, ai_agent_security",Very High,SaaS Security Analyst; AI Security Engineer; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+102,Looker,11,saas_compliance,Very High,SaaS Security Analyst; SaaS Security Consultant; Cloud Security Architect; Cloud Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+103,Akamai,8,"saas_compliance, ai_compliance",High,SaaS Risk Analyst; Security Engineer - SaaS; SSPM Engineer; AI Security Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+104,Box Corp,20,"ai_compliance, saas_compliance",Very High,SSPM Engineer; Security Engineer - SaaS; SaaS Risk Analyst; Cloud Security Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+105,ServiceNow,8,"ai_agent_security, sspm",High,SaaS Governance Analyst; GenAI Security Specialist; SaaS Security Engineer; Cloud Security Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+106,Twilio,15,"saas_security, saas_compliance, ai_compliance",Very High,SaaS Risk Analyst; SaaS Compliance Manager; Security Engineer - SaaS; SaaS Governance Analyst; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+107,Amazon,20,"ai_compliance, saas_security",Very High,Cloud Security Architect; SaaS Compliance Manager; AI Security Engineer; SaaS Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+108,Zoom LLC,12,"sspm, ai_compliance",Very High,SaaS Compliance Manager; SaaS Security Engineer; Cloud Security Architect; AI Compliance Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+109,RSA,13,"ai_compliance, saas_security",Very High,SaaS Governance Analyst; SaaS Compliance Manager; Cloud Security Architect; SaaS Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+110,Fastly,20,"saas_security, ai_compliance",Very High,AI Security Engineer; Cloud Security Architect; GenAI Security Specialist; Security Engineer - SaaS; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+111,GitHub Ltd,19,"saas_security, ai_compliance, ai_agent_security",Very High,SaaS Security Analyst; SaaS Risk Analyst; GenAI Security Specialist; Cloud Security Architect; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+112,F5 Networks,17,"saas_compliance, saas_security",Very High,AI Compliance Engineer; Cloud Security Engineer; SSPM Engineer; SaaS Compliance Manager; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+113,Barracuda,17,"sspm, saas_security, ai_agent_security",Very High,SaaS Security Analyst; Cloud Security Engineer; AI Compliance Engineer; AI Security Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+114,Freshdesk LLC,12,sspm,Very High,AI Compliance Engineer; Cloud Security Engineer; SaaS Governance Analyst; SaaS Risk Analyst; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+115,Monday.com Inc,19,"ai_compliance, ai_agent_security, saas_security",Very High,SaaS Governance Analyst; SSPM Engineer; SaaS Security Analyst; SaaS Security Consultant; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+116,GitHub Actions,12,"saas_compliance, sspm, ai_agent_security",Very High,AI Compliance Engineer; AI Security Engineer; GenAI Security Specialist; SaaS Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+117,Intercom,14,"saas_security, saas_compliance",Very High,SaaS Security Analyst; SaaS Risk Analyst; Cloud Security Architect; AI Security Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+118,Marketo,8,"sspm, ai_agent_security",High,SSPM Engineer; SaaS Security Analyst; Security Engineer - SaaS; SaaS Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+119,OneLogin,20,"saas_compliance, ai_agent_security, saas_security",Very High,Security Engineer - SaaS; SaaS Risk Analyst; SaaS Governance Analyst; GenAI Security Specialist; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+120,Elastic,18,"saas_security, sspm, saas_compliance",Very High,Cloud Security Engineer; SaaS Security Engineer; AI Security Engineer; AI Compliance Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+121,GitHub Actions,20,"sspm, saas_compliance",Very High,Cloud Security Engineer; Security Engineer - SaaS; AI Compliance Engineer; SaaS Risk Analyst; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+122,F5 Networks,16,saas_compliance,Very High,SaaS Security Analyst; SSPM Engineer; SaaS Risk Analyst; SaaS Compliance Manager; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+123,Proofpoint,12,saas_security,Very High,SaaS Security Consultant; SaaS Security Posture Manager; GenAI Security Specialist; AI Security Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+124,Marketo,13,"saas_security, sspm",Very High,SaaS Security Consultant; SaaS Security Engineer; AI Security Engineer; SaaS Compliance Manager; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+125,Salesforce,11,saas_compliance,Very High,SaaS Security Consultant; SaaS Governance Analyst; Cloud Security Engineer; SSPM Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+126,Confluent Inc,15,ai_compliance,Very High,AI Compliance Engineer; SSPM Engineer; SaaS Security Consultant; SaaS Security Posture Manager; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+127,CyberArk,16,"saas_security, sspm",Very High,AI Compliance Engineer; SaaS Compliance Manager; Security Engineer - SaaS; SaaS Risk Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+128,Azure Ltd,19,"saas_compliance, saas_security",Very High,SaaS Security Analyst; GenAI Security Specialist; AI Compliance Engineer; SaaS Risk Analyst; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+129,Netlify,13,"sspm, saas_compliance, saas_security",Very High,AI Security Engineer; Security Engineer - SaaS; SaaS Compliance Manager; GenAI Security Specialist; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+130,Confluence,8,"ai_agent_security, saas_security, ai_compliance",High,SaaS Security Engineer; Cloud Security Engineer; Cloud Security Architect; SaaS Compliance Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+131,Mailchimp,15,"ai_compliance, ai_agent_security",Very High,Security Engineer - SaaS; SaaS Security Analyst; AI Security Engineer; GenAI Security Specialist; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+132,Sprout Social Inc,14,"saas_security, ai_compliance",Very High,AI Compliance Engineer; SaaS Risk Analyst; SaaS Security Analyst; SaaS Governance Analyst; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+133,Salesforce Corp,20,"ai_agent_security, sspm, saas_compliance",Very High,SaaS Compliance Manager; Cloud Security Engineer; SSPM Engineer; SaaS Security Posture Manager; AI Security Engineer,Indeed,2025-12-01 22:02:58
+134,Trend Micro,9,saas_security,High,SaaS Security Analyst; SaaS Governance Analyst; SSPM Engineer; AI Compliance Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+135,RSA Ltd,14,sspm,Very High,SaaS Security Posture Manager; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Analyst; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+136,Datadog Inc,17,"saas_compliance, ai_agent_security, ai_compliance",Very High,Cloud Security Engineer; SaaS Governance Analyst; SaaS Security Consultant; SSPM Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+137,Squarespace,19,"sspm, saas_compliance, ai_agent_security",Very High,Cloud Security Engineer; SaaS Security Engineer; SaaS Security Analyst; SaaS Security Posture Manager; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+138,Linode,8,saas_compliance,High,SaaS Security Engineer; GenAI Security Specialist; Cloud Security Architect; SSPM Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+139,ClickUp,16,sspm,Very High,SaaS Security Consultant; SaaS Security Analyst; SaaS Risk Analyst; AI Compliance Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+140,Jira,9,ai_agent_security,High,SSPM Engineer; AI Security Engineer; SaaS Security Posture Manager; SaaS Compliance Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+141,Cisco,10,"sspm, saas_compliance",Very High,SaaS Risk Analyst; SaaS Security Consultant; AI Security Engineer; Security Engineer - SaaS; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+142,Dropbox,20,"ai_compliance, sspm, saas_security",Very High,SaaS Security Analyst; AI Security Engineer; SaaS Risk Analyst; SaaS Security Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+143,GitHub Inc,14,"sspm, saas_compliance",Very High,SaaS Security Posture Manager; GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Engineer; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+144,F5 Networks,18,"ai_agent_security, sspm",Very High,SSPM Engineer; SaaS Security Posture Manager; SaaS Security Consultant; SaaS Compliance Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+145,Jira ,8,"ai_agent_security, sspm, saas_compliance",High,SaaS Security Consultant; SaaS Security Posture Manager; SSPM Engineer; Security Engineer - SaaS; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+146,Google ,17,"saas_compliance, saas_security",Very High,AI Compliance Engineer; GenAI Security Specialist; Cloud Security Engineer; SSPM Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+147,Dropbox,16,ai_compliance,Very High,SSPM Engineer; AI Security Engineer; SaaS Risk Analyst; SaaS Compliance Manager; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+148,GitHub Actions,9,"saas_security, ai_compliance",Very High,SaaS Security Posture Manager; SaaS Compliance Manager; Security Engineer - SaaS; GenAI Security Specialist; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+149,Ping Identity,17,"sspm, ai_agent_security, saas_compliance",Very High,SaaS Security Engineer; SSPM Engineer; AI Security Engineer; AI Compliance Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+150,Monday.com LLC,11,"sspm, saas_compliance",Very High,SaaS Security Posture Manager; SaaS Security Engineer; SaaS Security Analyst; SSPM Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+151,Rapid7,12,sspm,Very High,SaaS Compliance Manager; SaaS Security Consultant; Cloud Security Engineer; SaaS Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+152,Twilio,20,"ai_compliance, sspm, saas_security",Very High,SaaS Security Consultant; SaaS Risk Analyst; GenAI Security Specialist; AI Security Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+153,Barracuda,12,"sspm, ai_compliance",Very High,AI Compliance Engineer; SSPM Engineer; SaaS Risk Analyst; AI Security Engineer; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+154,Twilio,12,saas_compliance,Very High,AI Security Engineer; SaaS Security Consultant; SaaS Compliance Manager; Security Engineer - SaaS; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+155,Square LLC,17,"saas_security, saas_compliance, ai_compliance",Very High,SaaS Compliance Manager; AI Security Engineer; SSPM Engineer; SaaS Security Analyst; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+156,GitHub,14,"sspm, saas_security, ai_compliance",Very High,SaaS Compliance Manager; Cloud Security Architect; SaaS Security Analyst; SaaS Security Posture Manager; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+157,Vercel,19,ai_agent_security,Very High,Cloud Security Engineer; SaaS Compliance Manager; AI Security Engineer; AI Compliance Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+158,DigitalOcean,20,"saas_compliance, ai_agent_security",Very High,SaaS Risk Analyst; SaaS Security Engineer; Cloud Security Engineer; AI Compliance Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+159,Vercel,19,saas_security,Very High,Security Engineer - SaaS; SSPM Engineer; SaaS Governance Analyst; SaaS Security Consultant; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+160,Trello,8,"ai_compliance, saas_compliance, ai_agent_security",High,SaaS Security Analyst; AI Compliance Engineer; AI Security Engineer; Cloud Security Architect; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+161,Heroku LLC,19,"saas_security, saas_compliance, ai_compliance",Very High,SaaS Risk Analyst; Cloud Security Architect; SaaS Security Analyst; Cloud Security Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+162,Sprout Social,9,"sspm, ai_compliance, saas_compliance",Very High,GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Analyst; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+163,Workday,15,"saas_compliance, ai_compliance, ai_agent_security",Very High,SaaS Security Consultant; SSPM Engineer; SaaS Security Engineer; Security Engineer - SaaS; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+164,Atlassian,13,"saas_compliance, saas_security",Very High,SaaS Security Posture Manager; SaaS Security Analyst; SaaS Risk Analyst; Cloud Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+165,IBM,20,ai_agent_security,Very High,SaaS Security Analyst; GenAI Security Specialist; Cloud Security Engineer; SaaS Governance Analyst; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+166,AWS,16,sspm,Very High,SaaS Compliance Manager; SaaS Risk Analyst; AI Compliance Engineer; AI Security Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+167,Amazon,8,"ai_agent_security, ai_compliance, saas_compliance",High,GenAI Security Specialist; SaaS Compliance Manager; SaaS Governance Analyst; AI Security Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+168,CyberArk,9,"saas_security, ai_agent_security",Very High,Cloud Security Architect; SaaS Security Posture Manager; SaaS Governance Analyst; SaaS Security Engineer; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+169,Slack ,17,"saas_compliance, saas_security, sspm",Very High,SaaS Risk Analyst; SaaS Security Analyst; SaaS Governance Analyst; Cloud Security Architect; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+170,Amazon LLC,8,saas_security,High,SSPM Engineer; Cloud Security Architect; SaaS Compliance Manager; AI Compliance Engineer; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+171,Palo Alto Networks,12,ai_compliance,Very High,Security Engineer - SaaS; SaaS Security Consultant; Cloud Security Architect; GenAI Security Specialist; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+172,Airtable,12,"sspm, ai_agent_security",Very High,SaaS Risk Analyst; AI Security Engineer; SaaS Governance Analyst; SaaS Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+173,McAfee,18,"ai_compliance, ai_agent_security",Very High,SaaS Security Posture Manager; Cloud Security Engineer; SaaS Risk Analyst; SSPM Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+174,HubSpot Corp,13,ai_compliance,Very High,SaaS Security Engineer; AI Security Engineer; SaaS Compliance Manager; SaaS Security Consultant; SSPM Engineer,Indeed,2025-12-01 22:02:58
+175,McAfee,8,"ai_compliance, saas_compliance",High,SaaS Security Analyst; SaaS Security Posture Manager; SaaS Governance Analyst; Cloud Security Architect; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+176,Constant Contact ,8,"sspm, saas_compliance, ai_compliance",High,AI Compliance Engineer; SaaS Security Analyst; SaaS Risk Analyst; Cloud Security Architect; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+177,New Relic,9,ai_compliance,High,SaaS Risk Analyst; SaaS Governance Analyst; GenAI Security Specialist; SSPM Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+178,DigitalOcean Inc,10,"saas_security, ai_agent_security",Very High,SaaS Risk Analyst; Cloud Security Architect; SaaS Security Consultant; SSPM Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+179,Sprout Social,16,ai_compliance,Very High,SaaS Security Engineer; AI Security Engineer; SaaS Compliance Manager; Security Engineer - SaaS; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+180,SailPoint,12,"saas_compliance, ai_agent_security, sspm",Very High,AI Security Engineer; SSPM Engineer; SaaS Security Consultant; GenAI Security Specialist; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+181,Qualys ,10,saas_security,Very High,SaaS Compliance Manager; Cloud Security Architect; Cloud Security Engineer; Security Engineer - SaaS; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+182,Twilio,10,ai_agent_security,Very High,Cloud Security Architect; SaaS Compliance Manager; SaaS Risk Analyst; SaaS Security Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+183,Microsoft ,17,"sspm, ai_compliance, saas_security",Very High,SaaS Compliance Manager; SaaS Security Consultant; Cloud Security Engineer; SaaS Governance Analyst; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+184,Buffer Ltd,17,ai_agent_security,Very High,SSPM Engineer; SaaS Risk Analyst; SaaS Compliance Manager; SaaS Security Analyst; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+185,Microsoft,10,"ai_compliance, sspm",Very High,SaaS Governance Analyst; Security Engineer - SaaS; SaaS Security Posture Manager; SaaS Security Consultant; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+186,Slack,11,"ai_agent_security, sspm, saas_compliance",Very High,Cloud Security Architect; Cloud Security Engineer; SaaS Risk Analyst; Security Engineer - SaaS; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+187,Proofpoint,13,"saas_compliance, saas_security, ai_agent_security",Very High,SaaS Security Engineer; Cloud Security Engineer; SaaS Governance Analyst; SaaS Compliance Manager; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+188,Calendly ,11,"saas_compliance, saas_security",Very High,Security Engineer - SaaS; SaaS Security Engineer; SSPM Engineer; SaaS Compliance Manager; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+189,Qualys,17,ai_compliance,Very High,Cloud Security Architect; AI Security Engineer; SaaS Security Consultant; SaaS Risk Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+190,Zoom,15,"ai_agent_security, saas_security, ai_compliance",Very High,SaaS Compliance Manager; SaaS Risk Analyst; Security Engineer - SaaS; SaaS Governance Analyst; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+191,Cloudflare Inc,19,saas_compliance,Very High,Cloud Security Engineer; AI Compliance Engineer; SaaS Security Posture Manager; AI Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+192,Notion,8,saas_security,High,SSPM Engineer; SaaS Security Posture Manager; SaaS Security Consultant; SaaS Security Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+193,Zscaler,8,sspm,High,SaaS Security Engineer; Security Engineer - SaaS; GenAI Security Specialist; AI Security Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+194,Vercel,14,"ai_agent_security, sspm, ai_compliance",Very High,AI Compliance Engineer; Cloud Security Architect; SaaS Security Posture Manager; Security Engineer - SaaS; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+195,OneLogin,17,"saas_compliance, ai_agent_security, saas_security",Very High,Security Engineer - SaaS; Cloud Security Engineer; SSPM Engineer; GenAI Security Specialist; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+196,SquareSpace,8,"ai_compliance, saas_security, sspm",High,Cloud Security Architect; SaaS Security Analyst; SaaS Security Consultant; SaaS Security Posture Manager; SSPM Engineer,Indeed,2025-12-01 22:02:58
+197,Cisco,12,"saas_compliance, ai_compliance, sspm",Very High,SaaS Compliance Manager; AI Compliance Engineer; Cloud Security Architect; SaaS Security Consultant; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+198,F5 Networks,14,ai_compliance,Very High,SaaS Security Engineer; SaaS Risk Analyst; GenAI Security Specialist; SaaS Security Consultant; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+199,GitLab,14,"ai_agent_security, sspm",Very High,AI Compliance Engineer; SaaS Security Engineer; SSPM Engineer; SaaS Compliance Manager; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+200,Fastly,13,"ai_agent_security, ai_compliance, sspm",Very High,Cloud Security Architect; SaaS Governance Analyst; SSPM Engineer; SaaS Security Engineer; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+201,Jira,10,"saas_security, ai_agent_security",Very High,SaaS Security Consultant; SaaS Security Posture Manager; Cloud Security Engineer; SaaS Governance Analyst; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+202,Bitbucket,10,saas_security,Very High,SaaS Security Analyst; SaaS Risk Analyst; Cloud Security Architect; SaaS Security Consultant; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+203,Hootsuite Inc,6,saas_compliance,High,Security Engineer - SaaS; SSPM Engineer; SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+204,Barracuda ,3,"saas_compliance, sspm, ai_agent_security",Medium,AI Security Engineer; SaaS Security Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+205,DigitalOcean ,5,saas_compliance,High,SSPM Engineer; Cloud Security Engineer; SaaS Security Posture Manager; SaaS Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+206,MongoDB Inc,10,"saas_security, sspm",Very High,Security Engineer - SaaS; AI Security Engineer; SaaS Security Posture Manager; Cloud Security Architect; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+207,Duo Security Inc,9,saas_compliance,High,SaaS Security Engineer; SaaS Security Posture Manager; SaaS Governance Analyst; SSPM Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+208,Airtable,4,sspm,Medium,Cloud Security Engineer; SaaS Risk Analyst; SaaS Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+209,Tableau,9,ai_compliance,High,AI Compliance Engineer; SaaS Security Posture Manager; SSPM Engineer; SaaS Security Consultant; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+210,Cloudflare,10,"sspm, ai_agent_security, ai_compliance",Very High,SaaS Compliance Manager; SaaS Governance Analyst; SaaS Security Posture Manager; Security Engineer - SaaS; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+211,Monday.com,6,ai_compliance,High,SaaS Security Posture Manager; Cloud Security Architect; SaaS Security Consultant; Cloud Security Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+212,Airtable,7,sspm,High,Cloud Security Engineer; SaaS Governance Analyst; AI Security Engineer; SaaS Security Consultant; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+213,Calendly,6,"sspm, ai_compliance",High,SaaS Security Posture Manager; AI Compliance Engineer; SaaS Security Engineer; SaaS Risk Analyst; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+214,Symantec,9,"ai_compliance, sspm, saas_security",Very High,SaaS Compliance Manager; SSPM Engineer; Cloud Security Engineer; SaaS Risk Analyst; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+215,Zoom,8,"saas_compliance, ai_compliance",High,SaaS Security Posture Manager; SaaS Security Analyst; SaaS Risk Analyst; AI Compliance Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+216,Databricks LLC,3,"sspm, ai_compliance",Medium,AI Compliance Engineer; SaaS Security Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+217,Auth0,8,"saas_security, saas_compliance",High,SaaS Security Consultant; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Risk Analyst; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+218,Jenkins,9,"saas_compliance, sspm, ai_compliance",Very High,SaaS Compliance Manager; Cloud Security Architect; SaaS Security Consultant; SaaS Security Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+219,Shopify Inc,3,sspm,Medium,Security Engineer - SaaS; AI Security Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+220,Notion,10,"sspm, saas_security",Very High,SaaS Risk Analyst; SaaS Security Consultant; AI Security Engineer; Cloud Security Architect; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+221,Splunk ,9,"sspm, saas_security",Very High,Security Engineer - SaaS; SaaS Security Analyst; AI Security Engineer; Cloud Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+222,Basecamp,5,ai_agent_security,High,AI Security Engineer; GenAI Security Specialist; SSPM Engineer; Cloud Security Architect; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+223,Trello ,9,"ai_agent_security, saas_compliance",Very High,SaaS Security Analyst; Cloud Security Engineer; Cloud Security Architect; AI Compliance Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+224,Hootsuite,6,saas_compliance,High,SaaS Security Posture Manager; AI Compliance Engineer; SaaS Security Analyst; SSPM Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+225,Fortinet,4,saas_security,Medium,SaaS Security Consultant; Cloud Security Engineer; AI Compliance Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+226,Duo Security ,8,ai_agent_security,High,SaaS Security Engineer; SaaS Governance Analyst; SaaS Risk Analyst; SaaS Security Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+227,Heroku,4,"saas_compliance, ai_agent_security",High,Security Engineer - SaaS; AI Security Engineer; SaaS Security Analyst; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+228,Tableau,7,ai_agent_security,High,SaaS Governance Analyst; SaaS Security Analyst; AI Compliance Engineer; SSPM Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+229,Microsoft,6,saas_security,High,SaaS Security Engineer; SaaS Governance Analyst; Cloud Security Architect; SaaS Security Posture Manager; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+230,Intercom,7,"saas_security, ai_agent_security, ai_compliance",High,Cloud Security Architect; AI Compliance Engineer; Security Engineer - SaaS; SaaS Compliance Manager; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+231,Palo Alto Networks Corp,3,"saas_compliance, sspm, saas_security",Medium,SaaS Security Consultant; Cloud Security Architect; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+232,CrowdStrike,8,"ai_compliance, ai_agent_security, saas_compliance",High,SaaS Security Consultant; AI Compliance Engineer; Security Engineer - SaaS; AI Security Engineer; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+233,Fortinet LLC,6,"ai_agent_security, sspm",High,AI Compliance Engineer; SaaS Governance Analyst; SaaS Security Posture Manager; GenAI Security Specialist; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+234,GitHub Corp,3,"ai_compliance, sspm, saas_security",Medium,GenAI Security Specialist; SaaS Security Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+235,Cloudflare,4,"ai_agent_security, ai_compliance",High,SaaS Compliance Manager; SaaS Security Engineer; Cloud Security Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+236,Vultr,9,ai_compliance,High,Security Engineer - SaaS; SaaS Security Consultant; Cloud Security Engineer; SaaS Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+237,Squarespace LLC,8,"ai_agent_security, sspm, saas_compliance",High,SaaS Security Engineer; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Governance Analyst; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+238,HubSpot LLC,3,"saas_compliance, ai_agent_security, saas_security",Medium,SSPM Engineer; SaaS Security Analyst; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+239,HubSpot LLC,10,"ai_compliance, saas_security, sspm",Very High,GenAI Security Specialist; SaaS Security Analyst; SaaS Governance Analyst; SaaS Security Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+240,Akamai,10,"saas_security, ai_agent_security, ai_compliance",Very High,Cloud Security Architect; GenAI Security Specialist; AI Compliance Engineer; AI Security Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+241,Tableau,6,ai_agent_security,High,SaaS Risk Analyst; SaaS Security Posture Manager; Cloud Security Engineer; Security Engineer - SaaS; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+242,Travis CI ,10,"ai_compliance, saas_security",Very High,SaaS Security Consultant; Cloud Security Architect; SaaS Risk Analyst; SaaS Compliance Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+243,Oracle,8,ai_compliance,High,SaaS Governance Analyst; SaaS Security Consultant; SaaS Security Posture Manager; Cloud Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+244,Amazon,9,"sspm, ai_agent_security",Very High,GenAI Security Specialist; SaaS Security Consultant; SSPM Engineer; SaaS Risk Analyst; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+245,Palo Alto Networks,7,"ai_agent_security, ai_compliance, saas_security",High,Cloud Security Architect; GenAI Security Specialist; SaaS Security Engineer; SaaS Compliance Manager; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+246,Oracle,7,"saas_compliance, ai_agent_security",High,SaaS Governance Analyst; SaaS Risk Analyst; Cloud Security Engineer; Cloud Security Architect; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+247,Travis CI ,8,ai_agent_security,High,SSPM Engineer; Cloud Security Architect; SaaS Security Analyst; Cloud Security Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+248,Monday.com,4,"saas_compliance, ai_compliance, sspm",High,GenAI Security Specialist; Cloud Security Engineer; SaaS Security Engineer; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+249,Airtable ,3,"saas_compliance, saas_security, ai_agent_security",Medium,SaaS Security Consultant; SaaS Security Posture Manager; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+250,Bitbucket ,5,saas_security,High,SaaS Security Engineer; SaaS Risk Analyst; SaaS Security Posture Manager; Cloud Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+251,RSA LLC,10,sspm,Very High,GenAI Security Specialist; AI Compliance Engineer; SaaS Security Engineer; SaaS Security Analyst; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+252,Asana,6,"saas_compliance, ai_compliance, sspm",High,AI Security Engineer; Cloud Security Architect; Cloud Security Engineer; SaaS Security Posture Manager; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+253,Ping Identity,6,saas_security,High,Security Engineer - SaaS; Cloud Security Architect; SaaS Security Engineer; Cloud Security Engineer; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+254,Azure,10,"saas_compliance, saas_security",Very High,Cloud Security Architect; SaaS Compliance Manager; Security Engineer - SaaS; AI Security Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+255,Hashicorp Corp,6,"ai_compliance, ai_agent_security",High,SaaS Security Analyst; SaaS Security Consultant; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+256,Constant Contact,7,saas_compliance,High,Cloud Security Architect; SaaS Security Engineer; AI Security Engineer; SaaS Compliance Manager; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+257,Monday.com,6,sspm,High,SaaS Security Analyst; Cloud Security Engineer; SaaS Security Posture Manager; AI Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+258,Google ,5,"sspm, saas_compliance",High,SaaS Compliance Manager; SaaS Security Engineer; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+259,Palo Alto Networks Inc,6,"ai_compliance, ai_agent_security",High,SaaS Security Analyst; AI Compliance Engineer; Cloud Security Architect; Cloud Security Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+260,Box Inc,3,saas_compliance,Medium,SaaS Security Analyst; Cloud Security Architect; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+261,Jira,5,"saas_compliance, ai_agent_security",High,Cloud Security Architect; SaaS Security Posture Manager; SaaS Compliance Manager; SaaS Governance Analyst; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+262,Confluent,5,"ai_compliance, saas_compliance",High,SaaS Security Posture Manager; Cloud Security Architect; GenAI Security Specialist; AI Security Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+263,SendGrid,6,"saas_compliance, sspm, ai_compliance",High,SaaS Risk Analyst; SaaS Compliance Manager; SSPM Engineer; AI Compliance Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+264,Slack,6,"sspm, saas_compliance, ai_compliance",High,Security Engineer - SaaS; SaaS Security Analyst; Cloud Security Engineer; SaaS Governance Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+265,Barracuda,10,"saas_compliance, saas_security",Very High,SaaS Compliance Manager; SaaS Security Posture Manager; SSPM Engineer; Cloud Security Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+266,Fastly,7,"saas_security, saas_compliance",High,SaaS Security Posture Manager; SaaS Security Analyst; AI Compliance Engineer; Cloud Security Architect; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+267,HubSpot,9,"ai_compliance, sspm, saas_security",Very High,GenAI Security Specialist; SaaS Security Engineer; Security Engineer - SaaS; SaaS Compliance Manager; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+268,CyberArk,8,sspm,High,SaaS Risk Analyst; Cloud Security Engineer; Security Engineer - SaaS; GenAI Security Specialist; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+269,Jenkins,3,"sspm, saas_compliance, saas_security",Medium,AI Security Engineer; SaaS Security Consultant; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+270,Oracle,10,"sspm, saas_security, ai_agent_security",Very High,Security Engineer - SaaS; SaaS Security Engineer; AI Security Engineer; SSPM Engineer; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+271,Slack LLC,10,"ai_compliance, saas_compliance, saas_security",Very High,Security Engineer - SaaS; SaaS Security Consultant; SaaS Governance Analyst; SaaS Risk Analyst; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+272,Marketo,5,"ai_compliance, sspm, ai_agent_security",High,SaaS Compliance Manager; Cloud Security Engineer; Security Engineer - SaaS; SaaS Governance Analyst; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+273,Splunk Inc,4,"saas_compliance, ai_compliance, ai_agent_security",High,Cloud Security Engineer; SaaS Security Engineer; Cloud Security Architect; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+274,Confluence,8,"sspm, saas_security",High,SaaS Governance Analyst; SaaS Security Posture Manager; Cloud Security Architect; GenAI Security Specialist; SSPM Engineer,Indeed,2025-12-01 22:02:58
+275,SquareSpace,8,"ai_compliance, ai_agent_security",High,Cloud Security Engineer; GenAI Security Specialist; AI Security Engineer; SaaS Security Analyst; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+276,Linode LLC,7,"ai_agent_security, sspm, ai_compliance",High,Security Engineer - SaaS; SaaS Governance Analyst; SSPM Engineer; SaaS Risk Analyst; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+277,GitHub,3,ai_agent_security,Medium,Cloud Security Engineer; AI Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+278,Auth0,7,saas_compliance,High,Security Engineer - SaaS; SaaS Security Consultant; Cloud Security Architect; SSPM Engineer; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+279,McAfee,9,saas_security,High,GenAI Security Specialist; SaaS Security Posture Manager; AI Security Engineer; AI Compliance Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+280,GitHub,7,"sspm, ai_agent_security",High,Security Engineer - SaaS; SaaS Security Consultant; AI Security Engineer; GenAI Security Specialist; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+281,Wix,3,"ai_compliance, saas_security, ai_agent_security",Medium,SaaS Security Analyst; SaaS Security Posture Manager; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+282,Datadog LLC,3,"saas_compliance, saas_security, sspm",Medium,AI Compliance Engineer; AI Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+283,Rapid7,9,"ai_agent_security, ai_compliance, saas_security",Very High,SaaS Governance Analyst; GenAI Security Specialist; Security Engineer - SaaS; SaaS Security Analyst; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+284,Trello,7,"saas_compliance, saas_security, ai_compliance",High,SaaS Risk Analyst; Cloud Security Engineer; SaaS Security Analyst; GenAI Security Specialist; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+285,Asana,5,ai_compliance,High,AI Security Engineer; SaaS Compliance Manager; SaaS Security Consultant; Security Engineer - SaaS; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+286,Monday.com,4,sspm,Medium,AI Compliance Engineer; SaaS Risk Analyst; SaaS Security Posture Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+287,GitLab,3,"saas_compliance, saas_security, sspm",Medium,Cloud Security Architect; SaaS Governance Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+288,Ping Identity,6,"saas_security, sspm, ai_compliance",High,SaaS Security Analyst; SaaS Risk Analyst; SaaS Governance Analyst; GenAI Security Specialist; SSPM Engineer,Indeed,2025-12-01 22:02:58
+289,Zendesk,9,"saas_compliance, saas_security, ai_agent_security",Very High,Cloud Security Architect; Cloud Security Engineer; SaaS Security Engineer; SaaS Security Consultant; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+290,Notion,3,"saas_security, ai_agent_security, sspm",Medium,SaaS Security Analyst; GenAI Security Specialist; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+291,ForgeRock,7,"saas_compliance, sspm, ai_compliance",High,SSPM Engineer; SaaS Security Analyst; AI Security Engineer; SaaS Compliance Manager; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+292,Mimecast ,3,"saas_compliance, ai_compliance, saas_security",Medium,Cloud Security Engineer; SaaS Compliance Manager; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+293,McAfee,6,"sspm, ai_agent_security, saas_security",High,GenAI Security Specialist; SSPM Engineer; SaaS Security Engineer; SaaS Security Analyst; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+294,Tenable,7,"saas_security, sspm",High,SaaS Security Analyst; SaaS Governance Analyst; SaaS Risk Analyst; AI Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+295,New Relic,6,"saas_security, ai_compliance, sspm",High,GenAI Security Specialist; SaaS Security Consultant; SaaS Governance Analyst; SaaS Security Posture Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+296,Basecamp,4,"sspm, saas_compliance, ai_agent_security",High,SaaS Risk Analyst; SaaS Security Posture Manager; SSPM Engineer; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+297,Elastic,5,saas_security,High,SSPM Engineer; SaaS Compliance Manager; Cloud Security Architect; Security Engineer - SaaS; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+298,Twilio Inc,6,"ai_compliance, sspm",High,SaaS Governance Analyst; Cloud Security Engineer; AI Security Engineer; Security Engineer - SaaS; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+299,ForgeRock Ltd,10,"saas_security, sspm",Very High,SaaS Compliance Manager; GenAI Security Specialist; Cloud Security Architect; SaaS Security Engineer; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+300,Microsoft,10,"saas_compliance, ai_agent_security",Very High,SaaS Compliance Manager; GenAI Security Specialist; Security Engineer - SaaS; SaaS Security Analyst; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+301,F5 Networks,9,saas_compliance,High,AI Security Engineer; SSPM Engineer; SaaS Risk Analyst; GenAI Security Specialist; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+302,Marketo,8,"saas_security, ai_agent_security",High,SSPM Engineer; SaaS Security Analyst; AI Compliance Engineer; Cloud Security Architect; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+303,Zscaler,4,saas_security,Medium,AI Compliance Engineer; GenAI Security Specialist; Security Engineer - SaaS; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+304,Vercel,8,ai_agent_security,High,Cloud Security Engineer; AI Security Engineer; Cloud Security Architect; SSPM Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+305,Jira,7,"ai_agent_security, saas_security, saas_compliance",High,Cloud Security Engineer; AI Security Engineer; SSPM Engineer; Cloud Security Architect; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+306,Asana,3,"saas_compliance, sspm, ai_agent_security",Medium,SSPM Engineer; SaaS Security Consultant; AI Security Engineer,Indeed,2025-12-01 22:02:58
+307,Cisco,7,"ai_agent_security, sspm",High,SaaS Security Engineer; SaaS Compliance Manager; GenAI Security Specialist; SaaS Security Analyst; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+308,HubSpot,3,"sspm, saas_compliance",Medium,SaaS Security Analyst; SSPM Engineer; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+309,Tableau,8,"ai_compliance, saas_compliance, ai_agent_security",High,SaaS Security Consultant; Cloud Security Engineer; AI Compliance Engineer; Security Engineer - SaaS; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+310,Workday,8,"sspm, saas_compliance, ai_compliance",High,Cloud Security Engineer; SaaS Security Analyst; SaaS Risk Analyst; SaaS Security Posture Manager; AI Security Engineer,Indeed,2025-12-01 22:02:58
+311,Monday.com,4,"saas_compliance, ai_agent_security",High,SaaS Security Engineer; Cloud Security Engineer; SaaS Security Consultant; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+312,Twilio ,7,sspm,High,GenAI Security Specialist; SaaS Security Consultant; Cloud Security Engineer; Cloud Security Architect; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+313,RSA Inc,9,ai_compliance,High,SaaS Compliance Manager; Cloud Security Engineer; AI Security Engineer; GenAI Security Specialist; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+314,IBM Inc,6,"sspm, saas_compliance",High,GenAI Security Specialist; Security Engineer - SaaS; SaaS Governance Analyst; Cloud Security Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+315,Tenable,5,ai_agent_security,High,AI Compliance Engineer; SaaS Security Engineer; GenAI Security Specialist; Security Engineer - SaaS; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+316,Monday.com,9,saas_compliance,High,Cloud Security Engineer; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Security Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+317,Amazon,7,"ai_compliance, ai_agent_security, saas_security",High,SaaS Security Consultant; SaaS Risk Analyst; SaaS Security Analyst; SaaS Security Posture Manager; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+318,Heroku Corp,9,"saas_compliance, ai_compliance, saas_security",Very High,SaaS Security Analyst; SaaS Security Consultant; SaaS Security Engineer; AI Compliance Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+319,Fastly LLC,8,ai_agent_security,High,SaaS Security Consultant; GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+320,Squarespace,5,"saas_compliance, saas_security",High,AI Security Engineer; SaaS Risk Analyst; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+321,ForgeRock,5,saas_compliance,High,SSPM Engineer; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Security Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+322,Linode,9,"sspm, saas_compliance, ai_agent_security",Very High,AI Security Engineer; SaaS Governance Analyst; Cloud Security Engineer; SSPM Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+323,Squarespace,10,"saas_security, sspm, saas_compliance",Very High,SSPM Engineer; SaaS Security Posture Manager; SaaS Security Analyst; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+324,Proofpoint,9,"saas_compliance, sspm",Very High,GenAI Security Specialist; Security Engineer - SaaS; SaaS Risk Analyst; Cloud Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+325,Google,8,"ai_compliance, saas_compliance",High,SaaS Security Consultant; SaaS Risk Analyst; Security Engineer - SaaS; SaaS Compliance Manager; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+326,ServiceNow Corp,9,"sspm, saas_compliance",Very High,GenAI Security Specialist; SaaS Compliance Manager; Cloud Security Engineer; SaaS Security Analyst; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+327,Constant Contact ,8,"saas_compliance, saas_security",High,Cloud Security Engineer; SaaS Governance Analyst; SSPM Engineer; SaaS Security Consultant; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+328,ServiceNow,6,saas_security,High,Security Engineer - SaaS; SaaS Governance Analyst; GenAI Security Specialist; AI Compliance Engineer; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+329,Mailchimp,9,"sspm, ai_agent_security",Very High,SaaS Risk Analyst; Security Engineer - SaaS; Cloud Security Architect; SSPM Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+330,OneLogin,5,"ai_compliance, saas_security, sspm",High,SaaS Security Posture Manager; SaaS Security Consultant; SSPM Engineer; SaaS Governance Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+331,MongoDB,8,saas_security,High,AI Security Engineer; SSPM Engineer; SaaS Security Analyst; AI Compliance Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+332,Slack LLC,7,"saas_security, sspm, ai_agent_security",High,SaaS Security Engineer; AI Compliance Engineer; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+333,IBM,9,sspm,High,Cloud Security Architect; SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Consultant; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+334,Vercel,10,ai_compliance,Very High,SSPM Engineer; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Compliance Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+335,Square,6,sspm,High,Security Engineer - SaaS; SaaS Security Consultant; SaaS Security Posture Manager; SaaS Security Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+336,SailPoint,10,saas_compliance,Very High,AI Security Engineer; SaaS Risk Analyst; Security Engineer - SaaS; Cloud Security Architect; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+337,MongoDB,10,saas_security,Very High,SaaS Compliance Manager; SaaS Security Engineer; GenAI Security Specialist; SaaS Risk Analyst; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+338,Ping Identity Ltd,7,"ai_agent_security, saas_security, saas_compliance",High,SaaS Governance Analyst; AI Compliance Engineer; Security Engineer - SaaS; Cloud Security Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+339,Azure,4,ai_agent_security,Medium,SaaS Governance Analyst; SaaS Security Consultant; Cloud Security Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+340,Airtable,5,"sspm, saas_security",High,AI Compliance Engineer; Cloud Security Architect; SSPM Engineer; Security Engineer - SaaS; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+341,Proofpoint LLC,7,saas_security,High,SaaS Security Analyst; SaaS Security Engineer; GenAI Security Specialist; SSPM Engineer; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+342,Vultr,9,"ai_agent_security, ai_compliance, saas_security",Very High,Cloud Security Architect; SSPM Engineer; SaaS Security Engineer; AI Compliance Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+343,DigitalOcean ,3,saas_compliance,Medium,SaaS Risk Analyst; SaaS Compliance Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+344,Fortinet,3,"ai_agent_security, sspm",Medium,SaaS Compliance Manager; SSPM Engineer; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+345,Freshdesk Inc,6,"saas_compliance, ai_compliance",High,AI Compliance Engineer; Cloud Security Architect; Cloud Security Engineer; SaaS Compliance Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+346,Airtable Ltd,6,ai_agent_security,High,SaaS Governance Analyst; Cloud Security Architect; SaaS Risk Analyst; SSPM Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+347,Akamai,7,sspm,High,GenAI Security Specialist; SaaS Governance Analyst; SaaS Risk Analyst; SaaS Security Consultant; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+348,Mimecast,5,saas_compliance,High,Cloud Security Engineer; SSPM Engineer; SaaS Risk Analyst; Cloud Security Architect; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+349,Azure,10,"saas_compliance, ai_compliance, saas_security",Very High,GenAI Security Specialist; AI Security Engineer; Security Engineer - SaaS; SaaS Security Analyst; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+350,Notion,3,ai_compliance,Medium,Cloud Security Architect; SSPM Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+351,Box,5,"ai_compliance, saas_compliance",High,Cloud Security Architect; SaaS Security Posture Manager; SaaS Security Engineer; GenAI Security Specialist; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+352,HubSpot,5,"saas_security, sspm",High,SaaS Compliance Manager; AI Security Engineer; AI Compliance Engineer; SaaS Security Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+353,Datadog,8,"ai_compliance, saas_compliance, saas_security",High,GenAI Security Specialist; SaaS Security Engineer; SaaS Security Analyst; SaaS Compliance Manager; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+354,OneLogin,9,ai_compliance,High,Security Engineer - SaaS; Cloud Security Engineer; SSPM Engineer; GenAI Security Specialist; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+355,Monday.com,3,saas_compliance,Medium,SaaS Security Consultant; Cloud Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+356,Okta,6,saas_compliance,High,SaaS Governance Analyst; SaaS Security Engineer; SSPM Engineer; SaaS Security Consultant; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+357,SquareSpace Corp,10,"sspm, saas_security",Very High,SSPM Engineer; SaaS Compliance Manager; Security Engineer - SaaS; AI Compliance Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+358,Bitbucket,6,"sspm, ai_agent_security, saas_compliance",High,SaaS Compliance Manager; AI Compliance Engineer; SaaS Governance Analyst; Security Engineer - SaaS; SSPM Engineer,Indeed,2025-12-01 22:02:58
+359,Trello,3,"sspm, ai_agent_security",Medium,SaaS Risk Analyst; SaaS Security Consultant; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+360,Slack,10,sspm,Very High,Security Engineer - SaaS; SaaS Compliance Manager; Cloud Security Architect; SSPM Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+361,Netlify,4,"sspm, saas_security, ai_agent_security",High,Cloud Security Engineer; SSPM Engineer; SaaS Security Posture Manager; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+362,Notion Corp,6,"saas_security, saas_compliance, ai_agent_security",High,Cloud Security Architect; SaaS Security Analyst; SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+363,IBM,4,ai_compliance,Medium,Cloud Security Architect; SaaS Risk Analyst; SaaS Security Posture Manager; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+364,Asana,6,sspm,High,Security Engineer - SaaS; Cloud Security Architect; Cloud Security Engineer; SaaS Governance Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+365,SailPoint ,3,"ai_agent_security, ai_compliance",Medium,SaaS Security Engineer; AI Compliance Engineer; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+366,Monday.com,3,"saas_security, sspm, saas_compliance",Medium,SaaS Security Analyst; GenAI Security Specialist; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+367,Mailchimp,5,saas_security,High,SaaS Security Consultant; Cloud Security Engineer; SaaS Security Posture Manager; SaaS Governance Analyst; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+368,Microsoft,4,"ai_agent_security, saas_security",High,AI Compliance Engineer; SaaS Security Posture Manager; SSPM Engineer; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+369,GitLab Inc,9,"ai_agent_security, sspm, saas_compliance",Very High,SaaS Security Engineer; GenAI Security Specialist; SaaS Security Analyst; SaaS Governance Analyst; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+370,Databricks,7,saas_compliance,High,AI Compliance Engineer; SaaS Risk Analyst; SaaS Security Engineer; SSPM Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+371,Palo Alto Networks LLC,3,"ai_compliance, sspm, saas_compliance",Medium,SaaS Security Posture Manager; SaaS Security Analyst; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+372,Duo Security,10,saas_security,Very High,SaaS Governance Analyst; GenAI Security Specialist; SaaS Security Consultant; SaaS Security Engineer; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+373,Calendly,10,ai_compliance,Very High,SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Consultant; AI Compliance Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+374,Tableau,4,"ai_agent_security, sspm, saas_security",High,SaaS Risk Analyst; Cloud Security Architect; SaaS Security Analyst; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+375,Tableau,4,ai_compliance,Medium,Cloud Security Engineer; AI Compliance Engineer; SaaS Security Analyst; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+376,Duo Security,3,saas_compliance,Medium,Cloud Security Engineer; SaaS Compliance Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+377,Confluent,5,saas_compliance,High,SSPM Engineer; SaaS Security Analyst; AI Security Engineer; Security Engineer - SaaS; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+378,DigitalOcean,3,"sspm, saas_compliance, saas_security",Medium,Cloud Security Engineer; Security Engineer - SaaS; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+379,Palo Alto Networks,8,saas_security,High,Cloud Security Architect; AI Security Engineer; SaaS Security Engineer; SaaS Security Consultant; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+380,Datadog,5,ai_compliance,High,Security Engineer - SaaS; SaaS Security Engineer; SaaS Governance Analyst; AI Compliance Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+381,Travis CI,9,"ai_agent_security, ai_compliance, saas_security",Very High,Security Engineer - SaaS; Cloud Security Architect; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+382,Jenkins,4,"saas_security, saas_compliance",High,AI Security Engineer; SaaS Security Consultant; Cloud Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+383,Hashicorp Corp,8,"ai_compliance, saas_compliance",High,GenAI Security Specialist; AI Security Engineer; AI Compliance Engineer; SaaS Risk Analyst; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+384,Azure ,4,ai_agent_security,Medium,Security Engineer - SaaS; SaaS Security Consultant; GenAI Security Specialist; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+385,Trend Micro,4,"saas_compliance, sspm",High,SaaS Security Posture Manager; SaaS Risk Analyst; SSPM Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+386,MongoDB,5,ai_compliance,High,Security Engineer - SaaS; SaaS Risk Analyst; SaaS Security Engineer; SaaS Governance Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+387,Linode ,4,"ai_compliance, ai_agent_security",High,AI Compliance Engineer; SaaS Governance Analyst; GenAI Security Specialist; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+388,Amazon,7,"ai_compliance, saas_compliance",High,AI Security Engineer; Cloud Security Architect; SaaS Security Engineer; SaaS Compliance Manager; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+389,Zendesk LLC,4,"saas_compliance, ai_agent_security",High,SaaS Security Consultant; Security Engineer - SaaS; AI Security Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+390,Salesforce Corp,10,ai_agent_security,Very High,SaaS Risk Analyst; GenAI Security Specialist; AI Compliance Engineer; AI Security Engineer; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+391,ForgeRock,4,ai_agent_security,Medium,SaaS Security Analyst; SaaS Security Posture Manager; SaaS Security Consultant; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+392,Snowflake Inc,3,"saas_security, sspm, ai_compliance",Medium,SaaS Governance Analyst; SaaS Compliance Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+393,SendGrid,6,"ai_compliance, saas_compliance",High,Security Engineer - SaaS; SSPM Engineer; SaaS Security Consultant; SaaS Security Analyst; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+394,Basecamp ,3,"ai_agent_security, sspm",Medium,Security Engineer - SaaS; AI Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+395,Jenkins LLC,3,"sspm, saas_compliance, saas_security",Medium,SaaS Risk Analyst; AI Security Engineer; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+396,GitLab,5,"saas_compliance, ai_compliance, saas_security",High,SSPM Engineer; SaaS Security Consultant; SaaS Risk Analyst; Security Engineer - SaaS; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+397,Linode,7,"saas_security, ai_compliance",High,SaaS Governance Analyst; SaaS Compliance Manager; AI Security Engineer; SaaS Security Consultant; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+398,Mailchimp,9,"ai_compliance, sspm, saas_security",Very High,SaaS Security Consultant; Cloud Security Engineer; SaaS Compliance Manager; SaaS Risk Analyst; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+399,Snowflake,6,ai_agent_security,High,SaaS Security Posture Manager; SaaS Risk Analyst; Security Engineer - SaaS; SaaS Security Consultant; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+400,Wix,3,"ai_agent_security, saas_security",Medium,SaaS Compliance Manager; SaaS Security Consultant; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+401,GitLab,3,saas_security,Medium,SSPM Engineer; Security Engineer - SaaS; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+402,Cloudflare ,8,sspm,High,AI Security Engineer; SSPM Engineer; SaaS Governance Analyst; SaaS Security Analyst; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+403,SendGrid ,5,sspm,High,SaaS Security Posture Manager; AI Security Engineer; GenAI Security Specialist; SaaS Security Consultant; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+404,Tenable,5,"sspm, saas_security",High,GenAI Security Specialist; SaaS Security Consultant; AI Compliance Engineer; SSPM Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+405,Jenkins,6,ai_agent_security,High,SaaS Security Posture Manager; Security Engineer - SaaS; GenAI Security Specialist; SaaS Security Analyst; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+406,Bitbucket Corp,9,"sspm, ai_compliance, saas_security",Very High,SSPM Engineer; SaaS Security Analyst; Security Engineer - SaaS; SaaS Security Posture Manager; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+407,Workday,10,"ai_agent_security, saas_compliance",Very High,SaaS Risk Analyst; SaaS Compliance Manager; SSPM Engineer; Cloud Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+408,Twilio,4,"saas_security, sspm, ai_agent_security",High,GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Engineer; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+409,AWS LLC,6,"ai_agent_security, saas_compliance",High,Security Engineer - SaaS; AI Compliance Engineer; SaaS Security Posture Manager; SSPM Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+410,Zoom,3,ai_agent_security,Medium,SaaS Security Analyst; SaaS Governance Analyst; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+411,SquareSpace,8,"saas_compliance, saas_security, ai_compliance",High,SaaS Security Consultant; AI Security Engineer; SaaS Risk Analyst; Security Engineer - SaaS; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+412,Freshdesk ,9,"saas_security, ai_agent_security",Very High,AI Security Engineer; Cloud Security Engineer; Security Engineer - SaaS; GenAI Security Specialist; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+413,GitHub,5,"sspm, saas_security",High,SaaS Security Engineer; SaaS Compliance Manager; SaaS Governance Analyst; AI Compliance Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+414,Snowflake Inc,4,saas_security,Medium,SaaS Compliance Manager; SaaS Security Posture Manager; AI Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+415,New Relic,7,"saas_compliance, saas_security",High,SSPM Engineer; SaaS Compliance Manager; AI Compliance Engineer; GenAI Security Specialist; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+416,Snowflake,9,"saas_compliance, sspm, ai_compliance",Very High,Security Engineer - SaaS; SaaS Security Engineer; Cloud Security Engineer; Cloud Security Architect; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+417,Microsoft Corp,6,"ai_agent_security, saas_security, ai_compliance",High,SaaS Governance Analyst; Cloud Security Architect; SaaS Security Analyst; SaaS Security Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+418,SendGrid LLC,5,"ai_agent_security, ai_compliance, saas_security",High,SaaS Security Analyst; SaaS Compliance Manager; SSPM Engineer; SaaS Risk Analyst; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+419,Rapid7,5,"ai_compliance, saas_security",High,SSPM Engineer; SaaS Security Analyst; Security Engineer - SaaS; SaaS Security Posture Manager; AI Security Engineer,Indeed,2025-12-01 22:02:58
+420,Symantec LLC,10,"sspm, ai_compliance",Very High,AI Compliance Engineer; SaaS Governance Analyst; SSPM Engineer; SaaS Security Posture Manager; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+421,Confluent ,9,"sspm, ai_compliance",Very High,Cloud Security Engineer; SSPM Engineer; SaaS Security Posture Manager; GenAI Security Specialist; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+422,IBM Inc,8,"saas_security, sspm, ai_agent_security",High,SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Consultant; Cloud Security Architect; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+423,Bitbucket ,5,ai_compliance,High,AI Compliance Engineer; SaaS Governance Analyst; Cloud Security Engineer; SaaS Security Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+424,Asana Ltd,4,"saas_compliance, saas_security, ai_agent_security",High,SaaS Security Posture Manager; Cloud Security Architect; SaaS Security Analyst; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+425,DigitalOcean,3,saas_compliance,Medium,Cloud Security Architect; AI Compliance Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+426,Duo Security,5,"saas_compliance, saas_security, ai_compliance",High,SaaS Governance Analyst; SaaS Security Posture Manager; AI Compliance Engineer; SaaS Compliance Manager; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+427,Looker Corp,8,"ai_compliance, saas_compliance",High,SSPM Engineer; GenAI Security Specialist; SaaS Security Consultant; SaaS Compliance Manager; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+428,Ping Identity,6,ai_compliance,High,Cloud Security Architect; SaaS Security Consultant; GenAI Security Specialist; SaaS Governance Analyst; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+429,Freshdesk,3,"ai_agent_security, sspm",Medium,SaaS Governance Analyst; SaaS Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+430,Atlassian,9,"saas_security, ai_agent_security",Very High,GenAI Security Specialist; SaaS Security Analyst; SaaS Security Posture Manager; Cloud Security Architect; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+431,Mailchimp,8,"saas_compliance, sspm",High,SaaS Security Consultant; SaaS Governance Analyst; SaaS Risk Analyst; SSPM Engineer; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+432,MongoDB,4,"saas_compliance, sspm, ai_agent_security",High,AI Security Engineer; SaaS Governance Analyst; AI Compliance Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+433,McAfee Ltd,8,ai_compliance,High,Cloud Security Engineer; SSPM Engineer; SaaS Security Analyst; AI Compliance Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+434,Shopify,7,"saas_security, ai_agent_security, saas_compliance",High,Security Engineer - SaaS; GenAI Security Specialist; AI Security Engineer; SSPM Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+435,CrowdStrike ,3,ai_agent_security,Medium,Cloud Security Architect; SaaS Security Consultant; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+436,Barracuda ,4,"sspm, ai_compliance",High,Cloud Security Engineer; SaaS Security Posture Manager; SaaS Risk Analyst; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+437,CircleCI Inc,10,"saas_compliance, ai_agent_security, sspm",Very High,SaaS Governance Analyst; SaaS Compliance Manager; SSPM Engineer; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+438,CyberArk,6,"ai_compliance, sspm, saas_security",High,Cloud Security Engineer; SaaS Security Posture Manager; SaaS Risk Analyst; SaaS Governance Analyst; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+439,Splunk ,10,saas_security,Very High,AI Security Engineer; Cloud Security Architect; SaaS Compliance Manager; SaaS Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+440,F5 Networks,7,saas_compliance,High,SaaS Compliance Manager; SaaS Security Posture Manager; Cloud Security Architect; GenAI Security Specialist; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+441,Databricks,8,"ai_compliance, ai_agent_security",High,GenAI Security Specialist; SaaS Governance Analyst; Security Engineer - SaaS; SaaS Security Consultant; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+442,Calendly,5,"ai_agent_security, ai_compliance",High,AI Security Engineer; Security Engineer - SaaS; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+443,Zoom ,5,"saas_security, saas_compliance",High,SaaS Security Posture Manager; SSPM Engineer; AI Compliance Engineer; SaaS Compliance Manager; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+444,Sprout Social Corp,10,"ai_compliance, sspm",Very High,Cloud Security Engineer; SaaS Security Analyst; SaaS Security Posture Manager; SaaS Compliance Manager; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+445,Ping Identity ,5,"ai_agent_security, saas_compliance, sspm",High,SaaS Compliance Manager; SaaS Security Consultant; SaaS Security Analyst; SaaS Security Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+446,Google,6,saas_compliance,High,SaaS Security Consultant; Cloud Security Architect; SaaS Security Engineer; SaaS Compliance Manager; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+447,Zendesk Corp,7,"saas_security, saas_compliance, ai_agent_security",High,SaaS Security Engineer; SaaS Risk Analyst; AI Compliance Engineer; SaaS Security Consultant; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+448,Airtable LLC,5,sspm,High,Cloud Security Architect; Cloud Security Engineer; AI Security Engineer; AI Compliance Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+449,Looker ,7,ai_agent_security,High,SaaS Security Engineer; AI Security Engineer; AI Compliance Engineer; SaaS Governance Analyst; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+450,Netlify,3,"saas_security, ai_agent_security",Medium,Security Engineer - SaaS; Cloud Security Architect; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+451,AWS,9,"ai_agent_security, saas_compliance",Very High,AI Security Engineer; Cloud Security Architect; Cloud Security Engineer; SaaS Security Posture Manager; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+452,SendGrid,5,ai_compliance,High,Cloud Security Engineer; GenAI Security Specialist; SaaS Governance Analyst; Security Engineer - SaaS; SSPM Engineer,Indeed,2025-12-01 22:02:58
+453,SquareSpace,8,"sspm, ai_compliance",High,SSPM Engineer; SaaS Risk Analyst; SaaS Compliance Manager; SaaS Security Posture Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+454,Splunk,4,sspm,Medium,GenAI Security Specialist; Cloud Security Architect; AI Security Engineer; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+455,Amazon Corp,9,sspm,High,AI Compliance Engineer; SaaS Security Consultant; SaaS Security Analyst; SaaS Security Posture Manager; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+456,Palo Alto Networks,5,"saas_compliance, ai_agent_security",High,SSPM Engineer; SaaS Compliance Manager; SaaS Security Engineer; SaaS Risk Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+457,Heroku LLC,10,"ai_compliance, saas_compliance, saas_security",Very High,Security Engineer - SaaS; GenAI Security Specialist; SaaS Security Consultant; SaaS Compliance Manager; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+458,Sprout Social Corp,6,"saas_security, sspm, saas_compliance",High,Cloud Security Architect; SSPM Engineer; SaaS Compliance Manager; SaaS Governance Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+459,HubSpot Corp,9,saas_security,High,Cloud Security Architect; SaaS Security Analyst; Cloud Security Engineer; SaaS Security Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+460,Workday Inc,9,"ai_compliance, sspm, saas_compliance",Very High,GenAI Security Specialist; SaaS Security Posture Manager; AI Security Engineer; SaaS Security Analyst; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+461,GitHub Actions,9,saas_security,High,AI Compliance Engineer; SaaS Security Consultant; SaaS Risk Analyst; SaaS Security Posture Manager; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+462,Mailchimp,6,"ai_agent_security, saas_security, saas_compliance",High,SaaS Security Analyst; AI Security Engineer; SaaS Governance Analyst; SaaS Compliance Manager; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+463,Buffer,6,"sspm, saas_security",High,Security Engineer - SaaS; GenAI Security Specialist; SaaS Risk Analyst; AI Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+464,OneLogin,10,saas_security,Very High,Security Engineer - SaaS; SaaS Governance Analyst; SaaS Security Engineer; SaaS Risk Analyst; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+465,Heroku LLC,3,ai_agent_security,Medium,SaaS Risk Analyst; SaaS Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+466,Twilio Ltd,8,"saas_compliance, ai_compliance, ai_agent_security",High,AI Compliance Engineer; SaaS Security Consultant; SaaS Governance Analyst; GenAI Security Specialist; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+467,Calendly,5,ai_compliance,High,SaaS Security Posture Manager; Security Engineer - SaaS; Cloud Security Engineer; AI Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+468,Symantec,10,"sspm, saas_security",Very High,Cloud Security Architect; SaaS Security Consultant; GenAI Security Specialist; SaaS Security Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+469,Salesforce,8,"saas_security, ai_compliance, sspm",High,SaaS Compliance Manager; Cloud Security Architect; SaaS Security Posture Manager; SaaS Governance Analyst; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+470,Confluence,3,"ai_agent_security, saas_security, sspm",Medium,SaaS Compliance Manager; SaaS Risk Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+471,Trend Micro,3,saas_compliance,Medium,AI Compliance Engineer; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+472,GitLab CI,3,ai_agent_security,Medium,SaaS Governance Analyst; SSPM Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+473,Qualys,4,ai_compliance,Medium,SaaS Security Engineer; Security Engineer - SaaS; AI Security Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+474,Ping Identity,8,"ai_agent_security, saas_compliance, ai_compliance",High,AI Compliance Engineer; GenAI Security Specialist; SSPM Engineer; Security Engineer - SaaS; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+475,Jenkins,9,ai_agent_security,High,SaaS Risk Analyst; SSPM Engineer; SaaS Security Engineer; AI Security Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+476,Okta,6,"sspm, saas_compliance, ai_compliance",High,AI Security Engineer; AI Compliance Engineer; GenAI Security Specialist; Cloud Security Architect; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+477,DocuSign Ltd,8,"sspm, ai_agent_security",High,Cloud Security Architect; SaaS Security Posture Manager; SaaS Security Engineer; SaaS Risk Analyst; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+478,IBM,3,ai_compliance,Medium,SaaS Security Engineer; Security Engineer - SaaS; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+479,Auth0 Ltd,5,"sspm, saas_compliance, ai_compliance",High,Security Engineer - SaaS; GenAI Security Specialist; Cloud Security Engineer; SaaS Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+480,Airtable,7,"saas_compliance, ai_compliance, ai_agent_security",High,SaaS Compliance Manager; SaaS Security Posture Manager; SaaS Governance Analyst; Cloud Security Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+481,Smartsheet,3,"ai_compliance, ai_agent_security",Medium,AI Compliance Engineer; GenAI Security Specialist; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+482,Calendly,4,ai_agent_security,Medium,SaaS Security Engineer; SaaS Security Analyst; SaaS Security Posture Manager; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+483,Tableau ,4,"ai_agent_security, sspm",High,AI Security Engineer; SaaS Security Engineer; SSPM Engineer; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+484,Mailchimp,4,"sspm, ai_compliance, ai_agent_security",High,SaaS Governance Analyst; Security Engineer - SaaS; SaaS Risk Analyst; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+485,AWS,10,ai_compliance,Very High,SaaS Security Consultant; SaaS Security Posture Manager; Cloud Security Engineer; AI Compliance Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+486,CrowdStrike,6,"saas_compliance, saas_security",High,SaaS Security Engineer; SaaS Compliance Manager; SSPM Engineer; SaaS Risk Analyst; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+487,Datadog ,7,"sspm, ai_agent_security",High,SSPM Engineer; AI Compliance Engineer; SaaS Security Posture Manager; GenAI Security Specialist; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+488,GitLab CI Inc,10,"sspm, ai_compliance",Very High,AI Compliance Engineer; SSPM Engineer; SaaS Risk Analyst; Security Engineer - SaaS; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+489,MongoDB,8,"ai_agent_security, sspm, saas_security",High,GenAI Security Specialist; SaaS Security Analyst; SaaS Security Engineer; SSPM Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+490,CrowdStrike Corp,6,"ai_agent_security, saas_security",High,SaaS Risk Analyst; Security Engineer - SaaS; Cloud Security Engineer; SaaS Compliance Manager; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+491,McAfee Inc,9,"ai_agent_security, saas_compliance",Very High,Cloud Security Architect; SaaS Security Consultant; SaaS Risk Analyst; SaaS Security Analyst; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+492,GitLab CI,10,"ai_agent_security, sspm",Very High,SaaS Governance Analyst; SaaS Security Engineer; SaaS Security Analyst; SSPM Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+493,Jenkins,7,"ai_agent_security, ai_compliance, sspm",High,SSPM Engineer; SaaS Risk Analyst; AI Compliance Engineer; SaaS Security Posture Manager; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+494,CircleCI,7,"sspm, ai_compliance",High,SaaS Compliance Manager; Cloud Security Engineer; AI Compliance Engineer; SaaS Security Posture Manager; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+495,Square,6,"ai_agent_security, saas_security",High,Cloud Security Engineer; GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+496,Zendesk LLC,5,"ai_compliance, sspm, ai_agent_security",High,AI Security Engineer; SaaS Risk Analyst; GenAI Security Specialist; SaaS Compliance Manager; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+497,ClickUp,9,saas_security,High,SaaS Security Posture Manager; AI Security Engineer; SaaS Governance Analyst; SaaS Security Analyst; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+498,Hootsuite LLC,3,sspm,Medium,SaaS Compliance Manager; SaaS Security Consultant; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+499,Confluence,6,"saas_security, ai_agent_security, sspm",High,SaaS Risk Analyst; SaaS Security Consultant; AI Security Engineer; SaaS Security Analyst; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+500,Notion,5,"ai_compliance, saas_compliance",High,AI Security Engineer; SaaS Compliance Manager; SaaS Governance Analyst; SaaS Security Consultant; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+501,DocuSign,4,ai_agent_security,Medium,SaaS Governance Analyst; SaaS Security Posture Manager; AI Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+502,Shopify LLC,4,"sspm, ai_compliance, saas_compliance",High,SaaS Security Engineer; Cloud Security Engineer; SaaS Security Consultant; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+503,GitLab CI,4,"saas_compliance, ai_agent_security, ai_compliance",High,SaaS Risk Analyst; SSPM Engineer; SaaS Compliance Manager; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+504,Mimecast,2,"saas_security, saas_compliance",Medium,SaaS Risk Analyst; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+505,Zendesk,2,"ai_agent_security, ai_compliance, sspm",Medium,SaaS Governance Analyst; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+506,Zendesk,1,saas_compliance,Low,SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+507,Shopify,4,"saas_security, ai_agent_security",High,GenAI Security Specialist; SaaS Governance Analyst; SaaS Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+508,New Relic,3,saas_security,Medium,Security Engineer - SaaS; Cloud Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+509,Jenkins,1,saas_security,Low,AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+510,IBM,2,"saas_security, ai_compliance, saas_compliance",Medium,SaaS Governance Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+511,Zendesk,2,"sspm, saas_compliance, ai_compliance",Medium,GenAI Security Specialist; AI Security Engineer,Indeed,2025-12-01 22:02:58
+512,ServiceNow Ltd,2,sspm,Medium,Security Engineer - SaaS; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+513,Databricks Inc,2,"saas_security, ai_agent_security",Medium,SaaS Compliance Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+514,Squarespace,5,saas_security,High,Security Engineer - SaaS; AI Security Engineer; GenAI Security Specialist; SSPM Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+515,Trend Micro,2,ai_compliance,Medium,SaaS Security Consultant; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+516,Marketo,5,"sspm, saas_compliance, saas_security",High,SaaS Risk Analyst; GenAI Security Specialist; AI Compliance Engineer; Cloud Security Architect; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+517,Barracuda,2,"saas_security, ai_compliance",Medium,SaaS Security Engineer; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+518,Salesforce,1,"sspm, saas_compliance",Medium,SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+519,Snowflake,3,"sspm, ai_agent_security, ai_compliance",Medium,AI Security Engineer; Cloud Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+520,Okta,1,"ai_compliance, saas_security",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+521,Fortinet,4,"saas_compliance, ai_compliance, sspm",High,Security Engineer - SaaS; SaaS Security Consultant; SaaS Governance Analyst; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+522,Calendly ,4,"ai_agent_security, sspm",High,SaaS Security Posture Manager; SaaS Security Analyst; SaaS Risk Analyst; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+523,Zoom Ltd,2,ai_compliance,Medium,SaaS Security Posture Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+524,CircleCI,3,"ai_agent_security, saas_compliance",Medium,SaaS Security Consultant; SaaS Governance Analyst; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+525,Confluent Inc,1,sspm,Low,SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+526,DocuSign,4,ai_agent_security,Medium,SaaS Security Analyst; Cloud Security Engineer; Cloud Security Architect; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+527,Monday.com,4,ai_compliance,Medium,GenAI Security Specialist; AI Security Engineer; Cloud Security Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+528,Sprout Social,4,"saas_compliance, sspm, ai_compliance",High,AI Security Engineer; Security Engineer - SaaS; Cloud Security Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+529,IBM,4,"sspm, saas_compliance",High,Security Engineer - SaaS; AI Compliance Engineer; SaaS Security Consultant; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+530,Check Point,1,"sspm, saas_security, ai_compliance",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+531,Barracuda,4,"saas_compliance, sspm, ai_agent_security",High,SaaS Security Consultant; AI Compliance Engineer; SaaS Risk Analyst; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+532,ForgeRock Ltd,5,"saas_compliance, ai_compliance, saas_security",High,SaaS Governance Analyst; SaaS Compliance Manager; SaaS Security Analyst; SSPM Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+533,Drift,5,ai_agent_security,High,SaaS Security Consultant; SSPM Engineer; SaaS Security Engineer; Cloud Security Architect; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+534,Check Point,1,"ai_agent_security, ai_compliance",Medium,Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+535,New Relic,4,saas_security,Medium,Cloud Security Engineer; SSPM Engineer; SaaS Security Posture Manager; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+536,GCP Inc,1,saas_compliance,Low,Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+537,Twilio,3,"ai_compliance, saas_security, saas_compliance",Medium,Cloud Security Engineer; SaaS Risk Analyst; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+538,Squarespace Corp,4,ai_agent_security,Medium,SaaS Governance Analyst; SaaS Compliance Manager; Security Engineer - SaaS; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+539,Microsoft Ltd,4,"saas_security, sspm",High,Cloud Security Engineer; GenAI Security Specialist; SaaS Compliance Manager; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+540,Microsoft,4,ai_agent_security,Medium,SaaS Risk Analyst; SaaS Security Consultant; GenAI Security Specialist; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+541,Trend Micro Corp,3,"saas_security, sspm",Medium,SaaS Security Analyst; SaaS Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+542,Trend Micro Ltd,1,"sspm, saas_compliance",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+543,SquareSpace,5,"ai_agent_security, saas_compliance",High,SaaS Security Posture Manager; SaaS Security Consultant; SaaS Governance Analyst; SaaS Risk Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+544,Travis CI,5,saas_compliance,High,SSPM Engineer; SaaS Security Consultant; SaaS Security Posture Manager; Cloud Security Architect; AI Security Engineer,Indeed,2025-12-01 22:02:58
+545,OneLogin,4,"saas_security, ai_compliance, saas_compliance",High,SaaS Security Engineer; AI Compliance Engineer; SaaS Risk Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+546,Proofpoint,5,"ai_compliance, saas_compliance",High,SaaS Security Engineer; SaaS Risk Analyst; SaaS Security Posture Manager; SaaS Security Analyst; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+547,Mailchimp,3,saas_security,Medium,AI Compliance Engineer; SaaS Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+548,Box,1,ai_agent_security,Low,SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+549,Mimecast,2,saas_security,Medium,GenAI Security Specialist; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+550,Trend Micro LLC,5,"sspm, ai_compliance",High,SaaS Compliance Manager; AI Compliance Engineer; SaaS Security Posture Manager; Security Engineer - SaaS; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+551,GitLab CI,4,saas_security,Medium,Cloud Security Engineer; AI Security Engineer; SaaS Security Engineer; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+552,Palo Alto Networks,4,sspm,Medium,SaaS Security Posture Manager; Security Engineer - SaaS; SaaS Security Consultant; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+553,DocuSign,1,"saas_compliance, ai_agent_security, sspm",Medium,Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+554,Okta Ltd,2,"saas_compliance, ai_compliance, sspm",Medium,SaaS Security Engineer; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+555,CyberArk,5,"saas_compliance, saas_security, ai_agent_security",High,SaaS Security Consultant; Security Engineer - SaaS; SaaS Security Posture Manager; SaaS Security Analyst; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+556,Trend Micro Inc,2,ai_agent_security,Medium,GenAI Security Specialist; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+557,Jira ,1,"sspm, saas_compliance, saas_security",Medium,AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+558,ServiceNow Corp,4,"sspm, saas_security",High,Cloud Security Engineer; SaaS Governance Analyst; SaaS Compliance Manager; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+559,Proofpoint,2,"sspm, saas_compliance",Medium,SaaS Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+560,Auth0,1,"ai_agent_security, ai_compliance, saas_compliance",Medium,SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+561,Hashicorp,3,"sspm, saas_security",Medium,Cloud Security Engineer; SaaS Security Analyst; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+562,Duo Security,1,"ai_agent_security, ai_compliance",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+563,DocuSign,4,"ai_agent_security, saas_compliance, sspm",High,AI Compliance Engineer; GenAI Security Specialist; SSPM Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+564,Monday.com,3,"saas_security, ai_compliance, ai_agent_security",Medium,SaaS Governance Analyst; SaaS Security Consultant; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+565,OneLogin LLC,5,"sspm, ai_agent_security, saas_security",High,SaaS Security Engineer; SaaS Security Posture Manager; Security Engineer - SaaS; SaaS Compliance Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+566,F5 Networks Corp,1,"ai_compliance, ai_agent_security, saas_security",Medium,AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+567,AWS,2,"saas_security, sspm, saas_compliance",Medium,SaaS Risk Analyst; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+568,Intercom,4,saas_security,Medium,Cloud Security Engineer; AI Compliance Engineer; SaaS Security Consultant; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+569,Zscaler,1,"saas_security, ai_agent_security, saas_compliance",Medium,GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+570,Heroku Ltd,4,"saas_compliance, ai_compliance",High,Cloud Security Engineer; SSPM Engineer; SaaS Security Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+571,Google,5,"saas_compliance, saas_security, ai_agent_security",High,SaaS Security Engineer; SaaS Compliance Manager; GenAI Security Specialist; SaaS Governance Analyst; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+572,Confluent,2,"saas_security, saas_compliance, ai_compliance",Medium,AI Compliance Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+573,CircleCI,2,saas_security,Medium,SSPM Engineer; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+574,Twilio,3,"ai_agent_security, saas_compliance, saas_security",Medium,SaaS Compliance Manager; AI Compliance Engineer; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+575,Marketo,4,"saas_compliance, ai_compliance, ai_agent_security",High,GenAI Security Specialist; SaaS Security Engineer; SaaS Governance Analyst; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+576,GitHub,2,"sspm, ai_agent_security, saas_security",Medium,Cloud Security Engineer; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+577,Heroku,3,"sspm, saas_compliance, saas_security",Medium,SaaS Security Consultant; SSPM Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+578,ServiceNow Corp,5,saas_security,High,AI Security Engineer; SaaS Compliance Manager; SaaS Security Posture Manager; SaaS Security Analyst; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+579,Salesforce ,1,"sspm, saas_security, ai_compliance",Medium,Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+580,Netlify,2,"ai_agent_security, saas_security, saas_compliance",Medium,SaaS Security Posture Manager; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+581,Jenkins,1,"saas_security, saas_compliance",Medium,GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+582,Heroku,4,sspm,Medium,AI Security Engineer; SSPM Engineer; SaaS Security Posture Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+583,Confluent,3,"sspm, ai_agent_security",Medium,SSPM Engineer; Cloud Security Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+584,Sprout Social,4,saas_security,Medium,SaaS Security Analyst; Security Engineer - SaaS; SaaS Security Posture Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+585,Zendesk,4,"ai_agent_security, saas_compliance, saas_security",High,AI Compliance Engineer; SaaS Governance Analyst; Cloud Security Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+586,Zscaler Corp,2,"ai_compliance, ai_agent_security",Medium,SaaS Risk Analyst; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+587,Qualys Ltd,2,"saas_security, ai_compliance, sspm",Medium,Cloud Security Architect; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+588,GitLab Ltd,4,"ai_compliance, saas_security",High,SSPM Engineer; Cloud Security Architect; Security Engineer - SaaS; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+589,OneLogin,4,"sspm, ai_compliance",High,SaaS Compliance Manager; SaaS Security Posture Manager; AI Security Engineer; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+590,Proofpoint,2,"saas_compliance, sspm, saas_security",Medium,AI Compliance Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+591,Google LLC,5,sspm,High,AI Security Engineer; Cloud Security Architect; AI Compliance Engineer; SaaS Compliance Manager; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+592,Heroku Inc,2,"saas_compliance, sspm, ai_compliance",Medium,SaaS Security Posture Manager; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+593,Calendly,1,"saas_compliance, ai_compliance",Medium,SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+594,Trello,4,"saas_compliance, ai_compliance, ai_agent_security",High,GenAI Security Specialist; AI Security Engineer; Security Engineer - SaaS; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+595,Zendesk,3,"saas_security, sspm",Medium,Security Engineer - SaaS; GenAI Security Specialist; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+596,Ping Identity,3,sspm,Medium,SaaS Security Consultant; Security Engineer - SaaS; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+597,CyberArk,4,"ai_agent_security, ai_compliance, saas_security",High,SaaS Security Posture Manager; SaaS Governance Analyst; GenAI Security Specialist; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+598,Dropbox Ltd,3,"ai_compliance, saas_compliance",Medium,Cloud Security Architect; AI Compliance Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+599,ForgeRock Inc,4,"ai_agent_security, ai_compliance",High,SaaS Security Posture Manager; AI Security Engineer; GenAI Security Specialist; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+600,SendGrid,1,"sspm, saas_security, ai_compliance",Medium,AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+601,Workday,4,saas_compliance,Medium,SaaS Security Posture Manager; SaaS Security Analyst; SSPM Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+602,Rapid7 LLC,1,"saas_compliance, ai_agent_security",Medium,SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+603,GitLab CI,1,saas_security,Low,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+604,Vercel,1,"saas_compliance, ai_agent_security, ai_compliance",Medium,AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+605,Zscaler,2,"ai_compliance, sspm, saas_security",Medium,Cloud Security Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+606,Fortinet LLC,2,"sspm, saas_compliance, ai_compliance",Medium,AI Compliance Engineer; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+607,GitHub LLC,3,sspm,Medium,GenAI Security Specialist; SaaS Security Consultant; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+608,Confluence Ltd,2,sspm,Medium,SaaS Security Posture Manager; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+609,Monday.com,1,sspm,Low,Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+610,McAfee,4,"ai_compliance, saas_compliance",High,AI Security Engineer; Security Engineer - SaaS; SaaS Security Consultant; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+611,IBM,5,"saas_compliance, saas_security",High,AI Compliance Engineer; Security Engineer - SaaS; SaaS Compliance Manager; AI Security Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+612,Sprout Social Corp,5,saas_compliance,High,SaaS Compliance Manager; Security Engineer - SaaS; SaaS Security Analyst; SaaS Governance Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+613,Splunk,1,"ai_agent_security, sspm",Medium,SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+614,Auth0 Inc,1,ai_compliance,Low,SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+615,Fortinet,5,saas_security,High,SSPM Engineer; Cloud Security Engineer; Security Engineer - SaaS; SaaS Security Consultant; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+616,CrowdStrike,3,ai_agent_security,Medium,GenAI Security Specialist; SaaS Risk Analyst; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+617,SquareSpace,2,"sspm, saas_security, ai_agent_security",Medium,SaaS Compliance Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+618,Check Point,4,"saas_compliance, ai_agent_security, sspm",High,SSPM Engineer; Cloud Security Engineer; SaaS Security Analyst; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+619,Rapid7 Corp,1,"ai_agent_security, sspm",Medium,SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+620,Linode Inc,3,"sspm, saas_security",Medium,SaaS Security Analyst; SaaS Compliance Manager; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+621,Slack,5,"ai_compliance, saas_compliance",High,SaaS Security Consultant; Security Engineer - SaaS; SaaS Security Analyst; SaaS Security Posture Manager; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+622,Heroku,5,ai_compliance,High,Cloud Security Engineer; SaaS Security Analyst; AI Compliance Engineer; SaaS Security Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+623,GitHub,5,"saas_compliance, saas_security",High,Cloud Security Architect; Cloud Security Engineer; SaaS Security Posture Manager; SaaS Security Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+624,Jira,1,"saas_compliance, sspm, ai_agent_security",Medium,Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+625,DigitalOcean,2,"ai_agent_security, saas_compliance, saas_security",Medium,Cloud Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+626,Barracuda,1,"ai_compliance, saas_compliance, saas_security",Medium,SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+627,Splunk,4,"saas_security, ai_compliance",High,Security Engineer - SaaS; SSPM Engineer; GenAI Security Specialist; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+628,DocuSign,1,"sspm, ai_compliance, saas_security",Medium,SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+629,Basecamp,2,"sspm, saas_security",Medium,AI Security Engineer; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+630,Symantec,1,saas_compliance,Low,SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+631,Zoom,1,"sspm, ai_compliance, ai_agent_security",Medium,AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+632,Snowflake,1,"sspm, saas_compliance, saas_security",Medium,SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+633,Monday.com,5,"sspm, saas_compliance, saas_security",High,SaaS Compliance Manager; AI Security Engineer; Cloud Security Architect; SaaS Security Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+634,New Relic,1,"ai_agent_security, sspm",Medium,GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+635,Oracle,4,"saas_compliance, ai_compliance, ai_agent_security",High,Cloud Security Architect; SaaS Security Consultant; AI Compliance Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+636,Confluent LLC,4,ai_agent_security,Medium,SaaS Security Consultant; SaaS Security Posture Manager; SaaS Compliance Manager; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+637,Duo Security,5,ai_compliance,High,SaaS Security Posture Manager; AI Security Engineer; GenAI Security Specialist; AI Compliance Engineer; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+638,Hootsuite Corp,4,saas_security,Medium,AI Security Engineer; Cloud Security Engineer; SaaS Governance Analyst; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+639,Tableau,4,"saas_compliance, ai_compliance",High,SaaS Risk Analyst; SaaS Compliance Manager; SaaS Governance Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+640,Fastly Ltd,5,"ai_compliance, saas_security",High,GenAI Security Specialist; SaaS Security Analyst; SSPM Engineer; AI Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+641,Hashicorp,3,ai_agent_security,Medium,SaaS Governance Analyst; Security Engineer - SaaS; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+642,Airtable,5,saas_compliance,High,SSPM Engineer; Cloud Security Engineer; Security Engineer - SaaS; SaaS Compliance Manager; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+643,Sprout Social,3,"sspm, ai_agent_security",Medium,SSPM Engineer; Security Engineer - SaaS; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+644,Jira,3,ai_agent_security,Medium,SaaS Security Consultant; SaaS Compliance Manager; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+645,Monday.com,2,"ai_agent_security, ai_compliance",Medium,AI Security Engineer; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+646,Constant Contact,2,"saas_compliance, sspm, ai_compliance",Medium,SaaS Security Consultant; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+647,Trello Corp,1,"ai_compliance, sspm",Medium,SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+648,Azure,5,ai_compliance,High,AI Security Engineer; SaaS Governance Analyst; Security Engineer - SaaS; Cloud Security Engineer; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+649,Netlify,1,"ai_compliance, saas_compliance, sspm",Medium,SSPM Engineer,Indeed,2025-12-01 22:02:58
+650,Microsoft,4,"sspm, ai_agent_security",High,GenAI Security Specialist; SaaS Security Consultant; SSPM Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+651,Basecamp,4,"sspm, ai_agent_security, saas_security",High,Security Engineer - SaaS; AI Compliance Engineer; Cloud Security Architect; SSPM Engineer,Indeed,2025-12-01 22:02:58
+652,Monday.com,4,"ai_agent_security, ai_compliance",High,AI Security Engineer; Cloud Security Engineer; SaaS Governance Analyst; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+653,Shopify,2,"saas_security, ai_agent_security, saas_compliance",Medium,Security Engineer - SaaS; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+654,Basecamp,1,"ai_compliance, sspm, saas_security",Medium,SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+655,Jira,5,saas_security,High,AI Compliance Engineer; SaaS Compliance Manager; SaaS Governance Analyst; Cloud Security Engineer; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+656,Duo Security Inc,2,sspm,Medium,SSPM Engineer; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+657,Box,3,"saas_compliance, ai_compliance",Medium,GenAI Security Specialist; AI Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+658,Workday,5,ai_compliance,High,SaaS Risk Analyst; AI Security Engineer; SaaS Security Analyst; Security Engineer - SaaS; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+659,Mailchimp,4,saas_compliance,Medium,Cloud Security Architect; Security Engineer - SaaS; SSPM Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+660,Smartsheet,1,"sspm, ai_compliance",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+661,Monday.com,2,"saas_security, ai_compliance, sspm",Medium,SaaS Risk Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+662,Cloudflare,3,saas_compliance,Medium,GenAI Security Specialist; AI Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+663,SquareSpace,2,saas_security,Medium,AI Compliance Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+664,Marketo Inc,5,"ai_compliance, ai_agent_security, sspm",High,AI Security Engineer; SaaS Risk Analyst; SaaS Compliance Manager; Cloud Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+665,Akamai Ltd,4,"ai_compliance, saas_compliance, saas_security",High,SSPM Engineer; SaaS Security Posture Manager; AI Compliance Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+666,Okta,1,saas_compliance,Low,SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+667,Shopify Ltd,5,"sspm, saas_security, ai_agent_security",High,SSPM Engineer; Cloud Security Architect; Security Engineer - SaaS; SaaS Risk Analyst; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+668,GCP,1,"saas_compliance, ai_agent_security",Medium,SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+669,Basecamp Ltd,4,"ai_compliance, saas_security, sspm",High,SSPM Engineer; SaaS Risk Analyst; Cloud Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+670,Asana LLC,2,ai_compliance,Medium,SaaS Security Posture Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+671,Intercom,1,"saas_compliance, ai_agent_security",Medium,SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+672,Vultr LLC,5,"sspm, saas_compliance, saas_security",High,Cloud Security Architect; SaaS Risk Analyst; SSPM Engineer; Cloud Security Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+673,Check Point Ltd,4,saas_security,Medium,SaaS Security Analyst; SaaS Security Consultant; AI Security Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+674,Confluence,3,ai_agent_security,Medium,SaaS Security Posture Manager; GenAI Security Specialist; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+675,Airtable,5,ai_compliance,High,GenAI Security Specialist; SaaS Security Posture Manager; SaaS Security Engineer; AI Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+676,Mailchimp,5,"ai_compliance, saas_compliance, ai_agent_security",High,SaaS Security Engineer; SSPM Engineer; AI Compliance Engineer; AI Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+677,Stripe Corp,2,saas_security,Medium,SaaS Security Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+678,Google,1,"sspm, saas_security",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+679,Workday,1,"ai_compliance, ai_agent_security, sspm",Medium,AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+680,GCP,2,sspm,Medium,SaaS Governance Analyst; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+681,Bitbucket,1,"saas_compliance, ai_compliance",Medium,SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+682,Box,4,"ai_agent_security, sspm, saas_security",High,GenAI Security Specialist; SSPM Engineer; SaaS Security Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+683,Trend Micro Corp,1,"ai_agent_security, ai_compliance, saas_compliance",Medium,SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+684,GitLab,1,"saas_compliance, saas_security",Medium,Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+685,CrowdStrike,4,saas_compliance,Medium,SaaS Governance Analyst; SaaS Security Consultant; GenAI Security Specialist; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+686,Symantec,3,"sspm, ai_compliance",Medium,AI Compliance Engineer; Cloud Security Architect; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+687,HubSpot ,3,saas_compliance,Medium,SaaS Security Consultant; SaaS Compliance Manager; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+688,DigitalOcean,1,ai_agent_security,Low,SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+689,Duo Security,4,"sspm, saas_security",High,GenAI Security Specialist; SaaS Security Engineer; Cloud Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+690,SendGrid ,4,"saas_security, saas_compliance, ai_agent_security",High,SaaS Compliance Manager; SSPM Engineer; AI Compliance Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+691,McAfee,2,"ai_compliance, saas_compliance",Medium,AI Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+692,CircleCI,1,"sspm, saas_security, ai_agent_security",Medium,Cloud Security Architect,Indeed,2025-12-01 22:02:58
+693,Databricks LLC,3,saas_security,Medium,SaaS Compliance Manager; AI Compliance Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+694,MongoDB,5,"saas_security, saas_compliance",High,SaaS Security Analyst; AI Compliance Engineer; GenAI Security Specialist; SSPM Engineer; SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+695,Marketo,2,"saas_compliance, ai_agent_security",Medium,Cloud Security Architect; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+696,Atlassian,4,"ai_compliance, ai_agent_security, saas_compliance",High,SaaS Security Engineer; SaaS Security Consultant; AI Compliance Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+697,Fortinet ,3,saas_security,Medium,Security Engineer - SaaS; SaaS Security Analyst; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+698,Calendly,3,sspm,Medium,SaaS Compliance Manager; Cloud Security Architect; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+699,Tableau ,2,"sspm, ai_agent_security, saas_security",Medium,SaaS Risk Analyst; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+700,Auth0 Corp,3,"ai_compliance, saas_compliance, saas_security",Medium,SaaS Security Consultant; GenAI Security Specialist; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+701,IBM,2,saas_compliance,Medium,Cloud Security Architect; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+702,MongoDB,4,"ai_agent_security, ai_compliance",High,SSPM Engineer; SaaS Risk Analyst; SaaS Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+703,Elastic Inc,1,"saas_compliance, saas_security",Medium,SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+704,Looker,5,"ai_compliance, ai_agent_security, sspm",High,GenAI Security Specialist; SaaS Security Consultant; SaaS Risk Analyst; AI Compliance Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+705,Splunk Inc,3,sspm,Medium,Cloud Security Engineer; SaaS Security Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+706,Cisco,2,"saas_compliance, saas_security",Medium,SaaS Risk Analyst; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+707,Asana,5,"saas_security, ai_agent_security, saas_compliance",High,SaaS Compliance Manager; Cloud Security Engineer; SaaS Risk Analyst; AI Security Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+708,Proofpoint Corp,2,"ai_compliance, saas_compliance, saas_security",Medium,SaaS Security Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+709,SendGrid,2,"saas_security, saas_compliance, ai_agent_security",Medium,SaaS Security Posture Manager; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+710,Freshdesk,3,"saas_security, saas_compliance, ai_compliance",Medium,SSPM Engineer; AI Security Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+711,Dropbox,5,"sspm, saas_security",High,AI Security Engineer; SaaS Security Posture Manager; Cloud Security Architect; SaaS Risk Analyst; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+712,Hashicorp,2,"ai_compliance, saas_compliance",Medium,GenAI Security Specialist; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+713,Palo Alto Networks Inc,1,ai_agent_security,Low,SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+714,Heroku,1,ai_agent_security,Low,SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+715,Barracuda,2,"sspm, saas_security",Medium,AI Security Engineer; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+716,GitHub,1,"sspm, saas_compliance, ai_compliance",Medium,GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+717,HubSpot,2,"ai_compliance, saas_compliance",Medium,SaaS Risk Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+718,Twilio ,4,ai_compliance,Medium,SaaS Compliance Manager; Cloud Security Engineer; AI Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+719,SquareSpace,5,saas_compliance,High,Cloud Security Engineer; SaaS Security Consultant; SaaS Risk Analyst; SSPM Engineer; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+720,Hootsuite,3,"ai_compliance, ai_agent_security",Medium,SSPM Engineer; SaaS Security Consultant; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+721,Confluence,4,saas_security,Medium,Cloud Security Architect; AI Compliance Engineer; SaaS Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+722,Smartsheet,3,"ai_compliance, ai_agent_security",Medium,AI Security Engineer; SaaS Security Consultant; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+723,OneLogin,3,ai_compliance,Medium,SaaS Risk Analyst; SaaS Compliance Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+724,Fortinet,5,"ai_agent_security, saas_security, sspm",High,SaaS Security Posture Manager; SaaS Security Consultant; AI Compliance Engineer; AI Security Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+725,Workday,5,"saas_compliance, ai_agent_security",High,AI Security Engineer; SaaS Compliance Manager; SaaS Security Posture Manager; SaaS Governance Analyst; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+726,Intercom,3,"ai_agent_security, ai_compliance",Medium,SSPM Engineer; AI Security Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+727,Google,4,"saas_compliance, sspm",High,Security Engineer - SaaS; AI Security Engineer; SaaS Security Analyst; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+728,Confluence Corp,2,"saas_security, ai_agent_security, saas_compliance",Medium,Security Engineer - SaaS; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+729,Drift,4,"saas_security, ai_compliance, ai_agent_security",High,Security Engineer - SaaS; SaaS Risk Analyst; Cloud Security Architect; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+730,ServiceNow ,1,"saas_security, sspm, ai_compliance",Medium,Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+731,CircleCI ,5,"ai_compliance, saas_compliance, ai_agent_security",High,AI Compliance Engineer; SSPM Engineer; GenAI Security Specialist; SaaS Security Analyst; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+732,Amazon Ltd,5,"sspm, ai_compliance, ai_agent_security",High,SaaS Governance Analyst; Cloud Security Engineer; SaaS Security Consultant; Security Engineer - SaaS; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+733,Cloudflare Inc,1,sspm,Low,AI Security Engineer,Indeed,2025-12-01 22:02:58
+734,Palo Alto Networks Corp,4,"saas_compliance, ai_agent_security",High,GenAI Security Specialist; SaaS Security Analyst; AI Compliance Engineer; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+735,Travis CI,4,"sspm, saas_compliance, ai_compliance",High,SaaS Risk Analyst; SaaS Security Consultant; SaaS Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+736,ServiceNow,3,sspm,Medium,SaaS Governance Analyst; AI Security Engineer; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+737,IBM,4,"sspm, ai_compliance",High,Cloud Security Architect; SaaS Compliance Manager; SaaS Security Analyst; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+738,GitLab,5,"ai_compliance, saas_security, sspm",High,SaaS Compliance Manager; SaaS Security Consultant; Security Engineer - SaaS; GenAI Security Specialist; AI Security Engineer,Indeed,2025-12-01 22:02:58
+739,Slack,5,"ai_compliance, sspm",High,SaaS Security Engineer; Cloud Security Engineer; AI Security Engineer; Security Engineer - SaaS; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+740,Azure,3,"ai_compliance, saas_security, ai_agent_security",Medium,AI Compliance Engineer; SaaS Security Consultant; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+741,Rapid7 Inc,1,saas_compliance,Low,SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+742,Squarespace,4,ai_agent_security,Medium,SaaS Security Engineer; Security Engineer - SaaS; SaaS Compliance Manager; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+743,Slack,5,"ai_compliance, saas_security",High,Cloud Security Architect; GenAI Security Specialist; SaaS Compliance Manager; AI Security Engineer; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+744,Notion LLC,2,saas_compliance,Medium,SaaS Governance Analyst; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+745,Elastic,1,"ai_agent_security, sspm",Medium,SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+746,Oracle,3,"ai_agent_security, saas_compliance, ai_compliance",Medium,SaaS Risk Analyst; Security Engineer - SaaS; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+747,Jira,2,ai_compliance,Medium,GenAI Security Specialist; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+748,GitHub Actions,5,"saas_security, ai_agent_security, ai_compliance",High,SaaS Compliance Manager; SaaS Governance Analyst; SaaS Security Analyst; SSPM Engineer; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+749,Square,5,"sspm, ai_compliance, saas_security",High,SaaS Security Posture Manager; AI Security Engineer; SaaS Security Consultant; Security Engineer - SaaS; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+750,GitLab CI,1,"ai_agent_security, ai_compliance, saas_compliance",Medium,Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+751,Squarespace Inc,5,"ai_compliance, ai_agent_security, saas_compliance",High,SaaS Risk Analyst; AI Security Engineer; AI Compliance Engineer; SaaS Compliance Manager; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+752,Looker,4,"ai_compliance, saas_compliance, saas_security",High,SaaS Security Analyst; SaaS Security Consultant; SaaS Governance Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+753,ClickUp Corp,1,"ai_agent_security, saas_security, ai_compliance",Medium,AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+754,Airtable,5,"sspm, ai_compliance, saas_security",High,AI Compliance Engineer; Security Engineer - SaaS; Cloud Security Engineer; GenAI Security Specialist; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+755,Hashicorp,4,"saas_security, ai_compliance, saas_compliance",High,GenAI Security Specialist; Cloud Security Architect; SaaS Compliance Manager; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+756,SquareSpace,5,"saas_compliance, ai_compliance",High,GenAI Security Specialist; SaaS Security Engineer; SaaS Security Analyst; AI Compliance Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+757,Squarespace,1,"ai_agent_security, saas_compliance",Medium,Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+758,Zoom,3,"ai_agent_security, ai_compliance, saas_security",Medium,SaaS Compliance Manager; Cloud Security Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+759,Jenkins,1,"ai_agent_security, saas_security",Medium,SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+760,Squarespace,5,"ai_compliance, sspm, saas_compliance",High,AI Compliance Engineer; SaaS Compliance Manager; SaaS Security Engineer; SaaS Security Analyst; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+761,Check Point Corp,5,"ai_compliance, ai_agent_security, sspm",High,SaaS Governance Analyst; SaaS Security Analyst; SaaS Risk Analyst; SaaS Security Consultant; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+762,Linode,4,"saas_compliance, ai_compliance",High,AI Security Engineer; SSPM Engineer; Security Engineer - SaaS; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+763,Buffer LLC,1,ai_compliance,Low,SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+764,CircleCI,1,"saas_security, sspm",Medium,AI Security Engineer,Indeed,2025-12-01 22:02:58
+765,Hootsuite,5,saas_compliance,High,SSPM Engineer; Security Engineer - SaaS; SaaS Security Consultant; SaaS Security Posture Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+766,Basecamp Inc,3,sspm,Medium,SSPM Engineer; AI Compliance Engineer; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+767,DigitalOcean Corp,2,"sspm, ai_compliance, saas_security",Medium,AI Security Engineer; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+768,AWS ,2,"ai_compliance, saas_compliance",Medium,GenAI Security Specialist; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+769,Basecamp,2,saas_security,Medium,AI Security Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+770,Intercom,2,ai_compliance,Medium,SaaS Security Posture Manager; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+771,Rapid7 Corp,4,"sspm, saas_compliance",High,Security Engineer - SaaS; SaaS Governance Analyst; SaaS Security Consultant; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+772,GitLab,3,"saas_compliance, ai_compliance",Medium,Cloud Security Engineer; SaaS Security Posture Manager; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+773,Jira Ltd,3,saas_security,Medium,SaaS Security Analyst; Cloud Security Engineer; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+774,Ping Identity,4,saas_compliance,Medium,AI Security Engineer; SaaS Security Posture Manager; GenAI Security Specialist; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+775,DigitalOcean Inc,4,"saas_security, sspm",High,SaaS Governance Analyst; Security Engineer - SaaS; SaaS Compliance Manager; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+776,GitHub,2,"ai_compliance, sspm, saas_security",Medium,SaaS Security Analyst; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+777,Mimecast Ltd,2,saas_compliance,Medium,SaaS Security Engineer; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+778,IBM,1,"ai_compliance, ai_agent_security",Medium,SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+779,Zendesk LLC,3,ai_agent_security,Medium,Security Engineer - SaaS; Cloud Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+780,Elastic,4,"sspm, ai_compliance",High,SaaS Security Consultant; AI Security Engineer; Cloud Security Architect; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+781,Rapid7,2,"sspm, saas_security",Medium,GenAI Security Specialist; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+782,Squarespace,1,"ai_agent_security, sspm",Medium,SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+783,Vultr LLC,3,"ai_agent_security, saas_security, ai_compliance",Medium,SaaS Compliance Manager; SaaS Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+784,Asana,2,"sspm, saas_security",Medium,SaaS Governance Analyst; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+785,Shopify,2,sspm,Medium,AI Compliance Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+786,Rapid7,3,"ai_agent_security, saas_security",Medium,SaaS Security Consultant; Security Engineer - SaaS; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+787,CyberArk,5,"ai_agent_security, saas_compliance",High,Cloud Security Architect; SSPM Engineer; SaaS Security Analyst; SaaS Governance Analyst; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+788,Azure Inc,5,"sspm, ai_agent_security, ai_compliance",High,SaaS Security Engineer; SaaS Risk Analyst; SaaS Governance Analyst; SaaS Security Consultant; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+789,Fastly,5,"saas_compliance, ai_compliance, ai_agent_security",High,SaaS Security Posture Manager; Cloud Security Architect; SaaS Security Consultant; SaaS Risk Analyst; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+790,Trend Micro,4,"sspm, saas_security, saas_compliance",High,Security Engineer - SaaS; Cloud Security Architect; SaaS Security Analyst; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+791,Netlify,2,"saas_compliance, sspm, saas_security",Medium,Cloud Security Engineer; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+792,Palo Alto Networks,3,"ai_agent_security, sspm",Medium,AI Compliance Engineer; SaaS Security Analyst; SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+793,Twilio LLC,3,"sspm, saas_compliance",Medium,AI Security Engineer; Security Engineer - SaaS; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+794,Slack,5,"sspm, ai_compliance",High,SaaS Security Consultant; Security Engineer - SaaS; SaaS Security Engineer; Cloud Security Architect; AI Security Engineer,Indeed,2025-12-01 22:02:58
+795,Vultr,1,sspm,Low,SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+796,Looker,5,"sspm, saas_security",High,SaaS Security Consultant; AI Security Engineer; Cloud Security Engineer; AI Compliance Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+797,Zendesk,4,"ai_compliance, saas_security, saas_compliance",High,SaaS Security Engineer; Security Engineer - SaaS; GenAI Security Specialist; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+798,Travis CI Corp,1,"sspm, ai_agent_security",Medium,GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+799,GCP,3,sspm,Medium,GenAI Security Specialist; AI Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+800,Wrike Inc,2,saas_compliance,Medium,SaaS Security Analyst; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+801,Mimecast Inc,1,"ai_agent_security, ai_compliance, saas_compliance",Medium,AI Security Engineer,Indeed,2025-12-01 22:02:58
+802,OneLogin ,4,"sspm, saas_compliance",High,AI Compliance Engineer; SaaS Security Engineer; SaaS Security Analyst; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+803,OneLogin Corp,5,sspm,High,SSPM Engineer; SaaS Risk Analyst; Security Engineer - SaaS; SaaS Security Consultant; AI Security Engineer,Indeed,2025-12-01 22:02:58
+804,Netlify,1,"sspm, ai_compliance, saas_compliance",Medium,SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+805,Datadog LLC,1,"saas_compliance, sspm, saas_security",Medium,SSPM Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+806,Zoom ,2,"saas_compliance, ai_agent_security, ai_compliance",Medium,SaaS Security Posture Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+807,Google,2,"sspm, saas_security",Medium,SaaS Security Posture Manager; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+808,Slack,5,"saas_security, ai_compliance",High,AI Security Engineer; SaaS Security Analyst; AI Compliance Engineer; Security Engineer - SaaS; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+809,New Relic Ltd,2,"ai_agent_security, sspm",Medium,SaaS Risk Analyst; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+810,Bitbucket,3,ai_compliance,Medium,SaaS Security Posture Manager; Cloud Security Engineer; SaaS Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+811,Google,1,"ai_compliance, saas_compliance",Medium,GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+812,Asana,5,"saas_security, saas_compliance, ai_agent_security",High,Cloud Security Engineer; Cloud Security Architect; AI Compliance Engineer; SaaS Governance Analyst; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+813,Zscaler,4,"ai_agent_security, saas_security",High,Cloud Security Architect; SaaS Security Posture Manager; SaaS Security Analyst; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+814,New Relic Ltd,4,saas_compliance,Medium,SSPM Engineer; Cloud Security Architect; SaaS Compliance Manager; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+815,Zscaler,1,"saas_compliance, ai_compliance, sspm",Medium,SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+816,Atlassian,2,"sspm, ai_agent_security",Medium,SaaS Governance Analyst; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+817,Twilio,5,"saas_security, ai_agent_security",High,GenAI Security Specialist; SaaS Security Posture Manager; AI Compliance Engineer; SaaS Security Analyst; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+818,ServiceNow,4,ai_agent_security,Medium,SaaS Security Consultant; SaaS Risk Analyst; Cloud Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+819,Oracle,5,ai_agent_security,High,GenAI Security Specialist; SaaS Security Analyst; Cloud Security Engineer; SaaS Security Consultant; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+820,GitLab CI,1,"ai_compliance, saas_security",Medium,GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+821,ForgeRock,3,sspm,Medium,SaaS Security Engineer; SSPM Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+822,GitHub Inc,2,"ai_compliance, ai_agent_security",Medium,SSPM Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+823,New Relic Inc,5,ai_compliance,High,SaaS Compliance Manager; AI Compliance Engineer; SaaS Security Consultant; SaaS Governance Analyst; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+824,Looker Ltd,5,"ai_compliance, ai_agent_security",High,SaaS Security Posture Manager; SaaS Security Engineer; GenAI Security Specialist; Cloud Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+825,Hootsuite,1,"saas_security, saas_compliance, sspm",Medium,SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+826,MongoDB,4,sspm,Medium,SaaS Security Posture Manager; Cloud Security Engineer; SaaS Security Consultant; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+827,GitHub,5,"saas_compliance, ai_compliance",High,SaaS Security Analyst; AI Security Engineer; GenAI Security Specialist; Security Engineer - SaaS; SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+828,Fortinet Ltd,2,"ai_agent_security, ai_compliance",Medium,SaaS Governance Analyst; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+829,Confluence Ltd,1,sspm,Low,SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+830,CyberArk,1,sspm,Low,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+831,Datadog,1,"ai_compliance, sspm, saas_security",Medium,SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+832,McAfee,2,ai_compliance,Medium,SaaS Governance Analyst; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+833,Elastic,5,"ai_compliance, sspm",High,Security Engineer - SaaS; AI Compliance Engineer; SaaS Risk Analyst; SSPM Engineer; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+834,HubSpot LLC,2,saas_compliance,Medium,GenAI Security Specialist; SaaS Security Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+835,Wix Corp,4,ai_compliance,Medium,SaaS Security Analyst; Security Engineer - SaaS; SaaS Security Consultant; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+836,Freshdesk,2,"ai_compliance, saas_compliance, ai_agent_security",Medium,SaaS Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+837,Qualys,2,ai_agent_security,Medium,SaaS Security Consultant; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+838,GitLab LLC,2,"saas_security, sspm",Medium,Security Engineer - SaaS; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+839,Symantec,3,ai_compliance,Medium,SaaS Security Consultant; SaaS Governance Analyst; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+840,Wrike,5,"saas_security, sspm, ai_compliance",High,Security Engineer - SaaS; SaaS Security Analyst; SaaS Security Consultant; GenAI Security Specialist; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+841,Monday.com,2,saas_compliance,Medium,Security Engineer - SaaS; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+842,Barracuda Inc,3,sspm,Medium,SaaS Security Consultant; SaaS Governance Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+843,Squarespace,5,ai_agent_security,High,GenAI Security Specialist; Security Engineer - SaaS; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+844,Tableau Ltd,4,sspm,Medium,Cloud Security Architect; Security Engineer - SaaS; SaaS Security Engineer; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+845,Auth0 Ltd,4,"ai_agent_security, sspm",High,AI Compliance Engineer; SaaS Security Consultant; Cloud Security Engineer; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+846,Buffer,3,ai_agent_security,Medium,AI Compliance Engineer; GenAI Security Specialist; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+847,Google Ltd,1,"ai_compliance, saas_compliance, saas_security",Medium,SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+848,Amazon,2,"ai_agent_security, ai_compliance, saas_security",Medium,SaaS Governance Analyst; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+849,Barracuda LLC,3,"saas_compliance, saas_security, ai_agent_security",Medium,SaaS Risk Analyst; SaaS Security Consultant; SaaS Compliance Manager,LinkedIn,2025-12-01 22:02:58
+850,Microsoft,1,"ai_agent_security, saas_security, saas_compliance",Medium,SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+851,Workday,5,sspm,High,Security Engineer - SaaS; AI Compliance Engineer; Cloud Security Engineer; GenAI Security Specialist; AI Security Engineer,Indeed,2025-12-01 22:02:58
+852,Cisco,2,"ai_compliance, ai_agent_security",Medium,GenAI Security Specialist; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+853,Constant Contact,1,ai_agent_security,Low,GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+854,Atlassian,5,"ai_agent_security, saas_security, sspm",High,SaaS Security Analyst; SaaS Risk Analyst; SaaS Governance Analyst; AI Compliance Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+855,Check Point,1,ai_compliance,Low,GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+856,Rapid7 ,5,saas_security,High,GenAI Security Specialist; Cloud Security Engineer; SaaS Compliance Manager; SaaS Security Analyst; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+857,Slack Ltd,5,ai_agent_security,High,Cloud Security Engineer; AI Compliance Engineer; AI Security Engineer; SaaS Security Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+858,Calendly Corp,3,sspm,Medium,SaaS Governance Analyst; SaaS Compliance Manager; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+859,Mimecast LLC,5,saas_compliance,High,SaaS Security Posture Manager; SaaS Compliance Manager; SaaS Governance Analyst; Cloud Security Architect; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+860,Shopify Corp,1,"ai_compliance, saas_compliance",Medium,Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+861,DigitalOcean ,2,saas_compliance,Medium,SaaS Security Engineer; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+862,Monday.com,4,ai_agent_security,Medium,GenAI Security Specialist; AI Security Engineer; Security Engineer - SaaS; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+863,Shopify,2,"ai_compliance, saas_security",Medium,Security Engineer - SaaS; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+864,Vercel LLC,4,"saas_compliance, ai_agent_security",High,SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Security Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+865,SailPoint,3,"sspm, ai_compliance",Medium,Cloud Security Engineer; SaaS Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+866,Basecamp,4,saas_compliance,Medium,GenAI Security Specialist; SaaS Compliance Manager; Cloud Security Architect; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+867,Shopify,4,sspm,Medium,Security Engineer - SaaS; SaaS Governance Analyst; AI Security Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+868,Zscaler LLC,2,ai_compliance,Medium,AI Security Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+869,GCP,4,saas_compliance,Medium,AI Security Engineer; AI Compliance Engineer; SaaS Security Analyst; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+870,Workday,5,saas_compliance,High,Cloud Security Engineer; SaaS Compliance Manager; SaaS Security Engineer; SaaS Governance Analyst; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+871,Snowflake,3,"saas_compliance, ai_agent_security, sspm",Medium,SaaS Compliance Manager; GenAI Security Specialist; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+872,Duo Security LLC,5,saas_security,High,AI Security Engineer; Security Engineer - SaaS; SaaS Security Posture Manager; SaaS Security Consultant; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+873,Notion,1,saas_security,Low,AI Security Engineer,Indeed,2025-12-01 22:02:58
+874,Box,3,ai_agent_security,Medium,SaaS Governance Analyst; AI Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+875,Squarespace Corp,4,"saas_compliance, ai_compliance, ai_agent_security",High,SaaS Security Posture Manager; Cloud Security Engineer; SaaS Risk Analyst; AI Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+876,Freshdesk,3,saas_security,Medium,Security Engineer - SaaS; SaaS Security Posture Manager; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+877,F5 Networks,4,ai_agent_security,Medium,SSPM Engineer; SaaS Security Engineer; SaaS Compliance Manager; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+878,F5 Networks,1,saas_security,Low,SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+879,Snowflake Inc,2,ai_compliance,Medium,AI Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+880,ClickUp,5,saas_compliance,High,AI Security Engineer; SaaS Security Engineer; GenAI Security Specialist; SaaS Security Posture Manager; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+881,DocuSign,5,"sspm, ai_compliance",High,Cloud Security Architect; AI Compliance Engineer; SaaS Security Engineer; AI Security Engineer; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+882,Netlify,1,"saas_compliance, ai_agent_security",Medium,SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+883,RSA,3,"saas_security, sspm, saas_compliance",Medium,AI Security Engineer; SaaS Security Posture Manager; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+884,Hashicorp,5,ai_compliance,High,SaaS Security Analyst; AI Security Engineer; SaaS Compliance Manager; SaaS Governance Analyst; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+885,Smartsheet,2,ai_agent_security,Medium,AI Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+886,Ping Identity,4,saas_security,Medium,SaaS Security Analyst; Cloud Security Engineer; SaaS Governance Analyst; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+887,ServiceNow,4,saas_security,Medium,AI Security Engineer; AI Compliance Engineer; SaaS Governance Analyst; Cloud Security Architect,LinkedIn,2025-12-01 22:02:58
+888,GitLab,3,"ai_compliance, ai_agent_security",Medium,SaaS Security Engineer; SSPM Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+889,Constant Contact,5,"sspm, ai_agent_security, saas_security",High,SaaS Security Engineer; SaaS Security Posture Manager; Cloud Security Engineer; SaaS Compliance Manager; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+890,Palo Alto Networks Ltd,1,"ai_compliance, saas_compliance",Medium,SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+891,Salesforce,3,sspm,Medium,Cloud Security Architect; SSPM Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+892,Dropbox,2,"saas_security, saas_compliance, ai_agent_security",Medium,SaaS Security Engineer; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+893,GitLab CI,5,"ai_agent_security, sspm, ai_compliance",High,AI Compliance Engineer; SaaS Security Consultant; SaaS Governance Analyst; Cloud Security Architect; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+894,AWS,5,"sspm, saas_compliance",High,SaaS Security Consultant; Cloud Security Architect; AI Security Engineer; GenAI Security Specialist; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+895,Qualys LLC,3,saas_compliance,Medium,Cloud Security Architect; AI Compliance Engineer; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+896,DigitalOcean,2,"ai_compliance, saas_security",Medium,SaaS Compliance Manager; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+897,CircleCI LLC,1,"sspm, saas_compliance",Medium,AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+898,Tableau,1,"sspm, saas_compliance",Medium,Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+899,Square,1,"ai_compliance, saas_security",Medium,GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+900,Twilio Ltd,3,ai_compliance,Medium,Cloud Security Architect; SaaS Security Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+901,Zscaler,2,"ai_agent_security, saas_compliance, ai_compliance",Medium,SaaS Security Analyst; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+902,Monday.com,5,"sspm, saas_compliance, ai_agent_security",High,SaaS Governance Analyst; Security Engineer - SaaS; Cloud Security Architect; SaaS Risk Analyst; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+903,Jira,2,"sspm, saas_security, ai_compliance",Medium,Cloud Security Architect; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+904,Hootsuite,2,"ai_agent_security, ai_compliance",Medium,Cloud Security Architect; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+905,Shopify,2,"ai_compliance, ai_agent_security, saas_security",Medium,SaaS Security Posture Manager; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+906,Splunk,1,sspm,Low,Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+907,Oracle,2,ai_agent_security,Medium,SaaS Compliance Manager; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+908,Heroku ,4,"ai_agent_security, ai_compliance",High,SaaS Security Posture Manager; AI Security Engineer; SaaS Governance Analyst; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+909,Palo Alto Networks,1,ai_compliance,Low,AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+910,Monday.com ,3,"ai_agent_security, sspm, saas_compliance",Medium,GenAI Security Specialist; SaaS Security Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+911,Zoom ,4,"saas_compliance, sspm",High,Cloud Security Architect; SaaS Security Posture Manager; Cloud Security Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+912,Okta,3,ai_compliance,Medium,GenAI Security Specialist; Cloud Security Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+913,Elastic,1,"saas_compliance, saas_security, sspm",Medium,Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+914,Square,5,"ai_agent_security, saas_security",High,Security Engineer - SaaS; SSPM Engineer; SaaS Security Posture Manager; SaaS Security Analyst; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+915,Vultr,3,saas_security,Medium,AI Compliance Engineer; SaaS Compliance Manager; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+916,CrowdStrike ,2,"saas_compliance, ai_agent_security, saas_security",Medium,Cloud Security Engineer; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+917,Databricks,3,"ai_compliance, saas_security, sspm",Medium,AI Compliance Engineer; SaaS Compliance Manager; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+918,Oracle Ltd,3,ai_agent_security,Medium,SaaS Security Posture Manager; SaaS Risk Analyst; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+919,Monday.com,5,"ai_agent_security, saas_compliance",High,SaaS Risk Analyst; SSPM Engineer; AI Compliance Engineer; SaaS Security Engineer; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+920,New Relic,5,ai_agent_security,High,SaaS Risk Analyst; SSPM Engineer; SaaS Security Posture Manager; Security Engineer - SaaS; Cloud Security Engineer,Indeed,2025-12-01 22:02:58
+921,Squarespace,1,sspm,Low,AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+922,Stripe,3,"saas_security, sspm",Medium,SaaS Governance Analyst; Cloud Security Architect; Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+923,Shopify,1,"sspm, saas_security, ai_compliance",Medium,SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+924,Hootsuite,4,sspm,Medium,SaaS Security Posture Manager; SaaS Compliance Manager; SaaS Security Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+925,Airtable,4,saas_compliance,Medium,SSPM Engineer; AI Compliance Engineer; SaaS Security Analyst; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+926,Workday,5,"ai_agent_security, saas_compliance",High,SaaS Security Consultant; AI Compliance Engineer; SaaS Compliance Manager; Cloud Security Architect; SaaS Security Analyst,LinkedIn,2025-12-01 22:02:58
+927,Netlify,5,"ai_agent_security, ai_compliance",High,AI Security Engineer; Cloud Security Architect; Security Engineer - SaaS; SSPM Engineer; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+928,Rapid7,4,sspm,Medium,SaaS Security Analyst; Security Engineer - SaaS; AI Security Engineer; SaaS Compliance Manager,Indeed,2025-12-01 22:02:58
+929,Stripe,5,sspm,High,GenAI Security Specialist; AI Security Engineer; Security Engineer - SaaS; AI Compliance Engineer; SaaS Security Posture Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
+930,IBM ,3,ai_agent_security,Medium,AI Compliance Engineer; Security Engineer - SaaS; SaaS Security Posture Manager,Indeed,2025-12-01 22:02:58
+931,GCP,2,ai_compliance,Medium,SaaS Compliance Manager; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+932,Stripe,4,saas_compliance,Medium,AI Security Engineer; GenAI Security Specialist; SaaS Compliance Manager; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+933,Monday.com,2,"ai_agent_security, sspm, saas_compliance",Medium,SSPM Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+934,Buffer,4,saas_compliance,Medium,SaaS Risk Analyst; AI Security Engineer; AI Compliance Engineer; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+935,Amazon Corp,3,"sspm, saas_security, saas_compliance",Medium,SaaS Governance Analyst; SaaS Security Posture Manager; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+936,Monday.com,1,"sspm, ai_agent_security",Medium,SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+937,Marketo ,4,"saas_security, ai_agent_security",High,AI Security Engineer; SaaS Risk Analyst; SaaS Compliance Manager; Cloud Security Architect,Indeed,2025-12-01 22:02:58
+938,Datadog,3,"saas_security, ai_agent_security, sspm",Medium,SaaS Security Posture Manager; AI Compliance Engineer; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+939,ForgeRock ,3,saas_compliance,Medium,SSPM Engineer; GenAI Security Specialist; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+940,SquareSpace,3,"saas_compliance, saas_security, sspm",Medium,SaaS Compliance Manager; Security Engineer - SaaS; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+941,GitLab CI Corp,2,ai_agent_security,Medium,Cloud Security Architect; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+942,Hootsuite,4,ai_compliance,Medium,SaaS Security Analyst; SaaS Risk Analyst; SSPM Engineer; AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+943,Databricks,1,ai_compliance,Low,AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+944,Fastly,4,"saas_compliance, ai_agent_security, saas_security",High,SaaS Security Posture Manager; SaaS Compliance Manager; AI Compliance Engineer; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+945,F5 Networks Inc,2,sspm,Medium,AI Compliance Engineer; AI Security Engineer,Indeed,2025-12-01 22:02:58
+946,Netlify Inc,4,ai_agent_security,Medium,Cloud Security Architect; GenAI Security Specialist; SaaS Security Analyst; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+947,GCP,4,saas_compliance,Medium,SaaS Compliance Manager; Cloud Security Architect; GenAI Security Specialist; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+948,Notion Corp,1,"saas_security, saas_compliance, sspm",Medium,AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+949,Fastly Ltd,1,"saas_compliance, sspm",Medium,Cloud Security Architect,Indeed,2025-12-01 22:02:58
+950,Trello Ltd,4,"sspm, ai_agent_security, saas_security",High,AI Compliance Engineer; SaaS Compliance Manager; AI Security Engineer; SaaS Security Consultant,LinkedIn,2025-12-01 22:02:58
+951,Drift Corp,1,"ai_agent_security, sspm",Medium,SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+952,Check Point,1,"ai_compliance, saas_compliance",Medium,SaaS Security Consultant,"Indeed, LinkedIn",2025-12-01 22:02:58
+953,IBM ,5,"saas_security, ai_compliance",High,Security Engineer - SaaS; AI Compliance Engineer; SSPM Engineer; GenAI Security Specialist; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+954,Workday Ltd,4,ai_compliance,Medium,Cloud Security Architect; SaaS Compliance Manager; SSPM Engineer; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+955,Akamai,5,"ai_compliance, saas_security",High,Cloud Security Engineer; Cloud Security Architect; AI Compliance Engineer; SaaS Security Posture Manager; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+956,McAfee,5,"saas_security, ai_compliance, sspm",High,SaaS Security Consultant; SSPM Engineer; Cloud Security Architect; AI Compliance Engineer; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+957,DocuSign,1,"sspm, ai_compliance, ai_agent_security",Medium,SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+958,Squarespace Corp,1,sspm,Low,Cloud Security Architect,Indeed,2025-12-01 22:02:58
+959,DigitalOcean,1,ai_compliance,Low,Cloud Security Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+960,HubSpot Ltd,5,"saas_security, saas_compliance, ai_agent_security",High,SaaS Compliance Manager; GenAI Security Specialist; AI Security Engineer; SaaS Risk Analyst; Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+961,AWS ,2,ai_agent_security,Medium,SaaS Security Analyst; SaaS Governance Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+962,Constant Contact,3,"saas_security, saas_compliance",Medium,Cloud Security Architect; AI Security Engineer; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+963,Auth0,3,saas_security,Medium,SaaS Security Consultant; Cloud Security Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+964,Hashicorp,1,"ai_agent_security, sspm",Medium,AI Security Engineer,Indeed,2025-12-01 22:02:58
+965,F5 Networks,2,saas_compliance,Medium,SaaS Security Engineer; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+966,Google,5,"saas_compliance, ai_agent_security",High,SaaS Security Analyst; SaaS Security Consultant; SaaS Risk Analyst; SaaS Security Engineer; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+967,RSA,4,"saas_security, sspm, saas_compliance",High,SaaS Security Posture Manager; Cloud Security Engineer; SSPM Engineer; SaaS Security Engineer,Indeed,2025-12-01 22:02:58
+968,Monday.com Corp,5,"saas_security, ai_agent_security",High,SaaS Compliance Manager; Security Engineer - SaaS; SaaS Security Engineer; SaaS Security Analyst; SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+969,Confluence,4,"saas_compliance, saas_security",High,SaaS Governance Analyst; AI Security Engineer; SaaS Security Consultant; SaaS Security Engineer,LinkedIn,2025-12-01 22:02:58
+970,Drift,4,ai_agent_security,Medium,SaaS Governance Analyst; SaaS Security Consultant; SaaS Security Posture Manager; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+971,Travis CI,4,"saas_compliance, sspm",High,SaaS Security Engineer; AI Compliance Engineer; SaaS Risk Analyst; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+972,Barracuda,2,"saas_compliance, ai_compliance",Medium,SaaS Governance Analyst; AI Security Engineer,Indeed,2025-12-01 22:02:58
+973,Azure,5,"saas_security, sspm, ai_compliance",High,AI Security Engineer; Cloud Security Engineer; AI Compliance Engineer; SaaS Security Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+974,Microsoft,1,"saas_security, ai_agent_security",Medium,Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+975,Oracle,2,ai_agent_security,Medium,AI Compliance Engineer; SSPM Engineer,Indeed,2025-12-01 22:02:58
+976,Bitbucket Ltd,3,"ai_compliance, sspm, saas_security",Medium,SaaS Security Consultant; SaaS Governance Analyst; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+977,Confluence,3,ai_compliance,Medium,AI Compliance Engineer; Security Engineer - SaaS; SaaS Governance Analyst,LinkedIn,2025-12-01 22:02:58
+978,Box ,5,"saas_security, ai_agent_security",High,SaaS Compliance Manager; SaaS Security Posture Manager; AI Security Engineer; SaaS Security Engineer; AI Compliance Engineer,"Indeed, LinkedIn",2025-12-01 22:02:58
+979,Cisco,3,"ai_agent_security, saas_security",Medium,Cloud Security Architect; Security Engineer - SaaS; SaaS Security Posture Manager,LinkedIn,2025-12-01 22:02:58
+980,Square,1,"saas_compliance, saas_security",Medium,AI Compliance Engineer,LinkedIn,2025-12-01 22:02:58
+981,Squarespace,1,sspm,Low,SaaS Risk Analyst,"Indeed, LinkedIn",2025-12-01 22:02:58
+982,Box,3,"ai_agent_security, ai_compliance",Medium,Cloud Security Engineer; SaaS Risk Analyst; GenAI Security Specialist,"Indeed, LinkedIn",2025-12-01 22:02:58
+983,New Relic,2,"saas_compliance, sspm, ai_agent_security",Medium,SaaS Security Consultant; AI Compliance Engineer,Indeed,2025-12-01 22:02:58
+984,IBM,5,"ai_agent_security, saas_security, ai_compliance",High,Security Engineer - SaaS; Cloud Security Engineer; SaaS Risk Analyst; SaaS Security Engineer; SSPM Engineer,LinkedIn,2025-12-01 22:02:58
+985,Workday,5,"sspm, saas_compliance",High,Security Engineer - SaaS; SaaS Security Engineer; SaaS Compliance Manager; GenAI Security Specialist; Cloud Security Engineer,LinkedIn,2025-12-01 22:02:58
+986,Monday.com Corp,3,"ai_compliance, ai_agent_security, saas_security",Medium,Security Engineer - SaaS; GenAI Security Specialist; Cloud Security Architect,"Indeed, LinkedIn",2025-12-01 22:02:58
+987,Tableau Inc,5,"ai_agent_security, ai_compliance",High,AI Compliance Engineer; SaaS Governance Analyst; SaaS Security Posture Manager; SaaS Security Engineer; SaaS Security Consultant,Indeed,2025-12-01 22:02:58
+988,Oracle,5,saas_security,High,Cloud Security Engineer; AI Security Engineer; Cloud Security Architect; SaaS Security Posture Manager; SaaS Risk Analyst,LinkedIn,2025-12-01 22:02:58
+989,Palo Alto Networks,1,"saas_compliance, ai_agent_security, saas_security",Medium,Security Engineer - SaaS,Indeed,2025-12-01 22:02:58
+990,Twilio,3,"sspm, ai_compliance, saas_compliance",Medium,SSPM Engineer; Security Engineer - SaaS; GenAI Security Specialist,LinkedIn,2025-12-01 22:02:58
+991,GitLab CI,2,"saas_compliance, sspm, ai_compliance",Medium,SaaS Compliance Manager; GenAI Security Specialist,Indeed,2025-12-01 22:02:58
+992,Duo Security,5,"saas_compliance, saas_security",High,AI Security Engineer; SaaS Security Engineer; SaaS Security Posture Manager; SSPM Engineer; SaaS Risk Analyst,Indeed,2025-12-01 22:02:58
+993,Travis CI ,1,"saas_security, sspm, ai_compliance",Medium,SaaS Governance Analyst,Indeed,2025-12-01 22:02:58
+994,DocuSign,2,"ai_agent_security, saas_security",Medium,SaaS Risk Analyst; Security Engineer - SaaS,"Indeed, LinkedIn",2025-12-01 22:02:58
+995,New Relic ,1,"ai_compliance, saas_compliance",Medium,AI Security Engineer,Indeed,2025-12-01 22:02:58
+996,SendGrid,2,"ai_agent_security, saas_security, sspm",Medium,Security Engineer - SaaS; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+997,Datadog Ltd,3,saas_security,Medium,Cloud Security Architect; SaaS Risk Analyst; AI Security Engineer,LinkedIn,2025-12-01 22:02:58
+998,Slack,3,"saas_compliance, ai_compliance",Medium,GenAI Security Specialist; Cloud Security Architect; Security Engineer - SaaS,LinkedIn,2025-12-01 22:02:58
+999,Monday.com,3,"sspm, ai_agent_security",Medium,Cloud Security Engineer; GenAI Security Specialist; SaaS Security Analyst,Indeed,2025-12-01 22:02:58
+1000,Bitbucket,5,"saas_compliance, ai_agent_security",High,SaaS Governance Analyst; AI Security Engineer; AI Compliance Engineer; Cloud Security Engineer; SaaS Compliance Manager,"Indeed, LinkedIn",2025-12-01 22:02:58
